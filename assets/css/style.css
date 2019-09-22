@@ -588,7 +588,7 @@ button.tab-button.active {
 }
 .more-btn:hover::after,
 .contact-adress-form button:hover::after {
-	width: 70%;
+	width: 100%;
 }
 
 
