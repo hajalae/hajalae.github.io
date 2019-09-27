@@ -3,15 +3,16 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>24h Race - Mister Alae</title>
+	<title>London - Mister Alae</title>
 
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="24h Race - Mister Alae" />
-	<meta property="og:url" content="http://www.mister-alae.com/24h-race-portfolio.html" />
-	<meta property="og:image" content="http://www.mister-alae.com/assets/img/book/24h-Race/24h-Race-15.jpg" />
-	<meta property="og:description" content="Competition de karting de 24h organisée par l'association Race ESSEC, avec plus de 20 équipes en lice." />
+	<meta property="og:title" content="London - Mister Alae" />
+	<meta property="og:url" content="http://mister-alae.com/londres-portfolio.php" />
+	<meta property="og:image"
+		content="http://mister-alae.com/assets/img/book/londres/Londres-4.jpg" />
+	<meta property="og:description" content="A short walk in the english melting pot - Street Photography" />
 
-	<meta name="keywords" content="Race, ESSEC, Karting, Competition, 24h, Photography, Sport Photography, Mister Alae">
+	<meta name="keywords" content="Mister Alae, Photography, Street, Street Photography, London, Londres">
 
 	<meta name="author" content="Alaeddine Hajjem">
 
@@ -51,79 +52,7 @@
 <body>
 	<!-- <div id="preloader"></div> -->
 
-	<!-- Start of header
-		============================================= -->
-	<header class="header">
-		<div role="navigation" class="navbar navbar-default navbar-fixed-top">
-			<div class="container">
-				<div class="row">
-					<div class="col-4">
-						<div class="navbar-header">
-							<div class="navbar-buttons" style="width: 200px">
-								<a href="index.html" class="navbar-brand scroll-to"><img src="assets/img//logo/logo.png"
-										alt="logo" class="hidden-xs hidden-sm " width="60%"><img
-										src="assets/img//logo/logo.png" alt="logo" class="visible-xs visible-sm"
-										width="70%"></a>
-							</div>
-							<button type="button" data-toggle="collapse" data-target=".navbar-collapse"
-								class="navbar-toggle navbar-btn">Menu<i class="pe-7s-menu"></i></button>
-						</div>
-					</div>
-
-
-					<div class="col-8">
-						<div id="navigation" class="collapse navbar-collapse navbar-right">
-							<ul class="nav navbar-nav">
-								<li><a href="index.html">Home</a></li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Fashion<span
-											class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="the-people-opium-portfolio.html">The People Opium</a></li>
-										<li><a href="la-villette-portfolio.html">La Villette</a></li>
-										<li><a href="adcl-portfolio.html">Eyewears</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Street Photography<span
-											class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="londres-portfolio.html">London</a></li>
-										<li><a href="tokyo-by-night-portfolio.html">Tokyo by Night</a></li>
-										<li><a href="rome-portfolio.html">Rome</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Sport<span class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="24h-race-portfolio.html">24h Race</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Festivals<span
-											class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="imaginarium-festival-portfolio.html">Imaginarium Festival 2019</a>
-										</li>
-									</ul>
-								</li>
-								<li>
-									<a href="videos.html">Videos</a>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header>
-
-	<!-- End of header
-		============================================= -->
+	<?php include("header.php") ?>
 
 
 	<!-- Start of portfolio section
@@ -131,15 +60,15 @@
 	<section id="portfolio" class="portfolio-section">
 		<div class="container">
 			<ol class="breadcrumb">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="sport-index.html">Sport</a></li>
-				<li class="active"><a href="24h-race-portfolio.html">24h Race</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="street-index.php">Street Photography</a></li>
+				<li class="active"><a href="londres-portfolio.php">London</a></li>
 			</ol>
 		</div>
 		<div class="container">
 			<div class="page-head-title text-capitalize text-center pb40">
-				<h1>24h Race</h1>
-				<span class="descrip">A 24h karting tournament organised by Race ESSEC</span>
+				<h1>London</h1>
+				<span class="descrip">A mix between business and humanity</span>
 			</div>
 			<div class="row">
 				<div class="portfolio-content">
@@ -152,11 +81,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-1.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-1.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-1.jpg"
+													<a href="assets/img/book/londres/Londres-1.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -171,11 +100,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-2.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-2.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-2.jpg"
+													<a href="assets/img/book/londres/Londres-2.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -190,11 +119,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-3.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-3.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-3.jpg"
+													<a href="assets/img/book/londres/Londres-3.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -209,11 +138,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-4.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-4.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-4.jpg"
+													<a href="assets/img/book/londres/Londres-4.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -228,11 +157,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-5.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-5.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-5.jpg"
+													<a href="assets/img/book/londres/Londres-5.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -247,11 +176,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-6.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-6.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-6.jpg"
+													<a href="assets/img/book/londres/Londres-6.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -266,11 +195,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-7.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-7.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-7.jpg"
+													<a href="assets/img/book/londres/Londres-7.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -285,11 +214,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-8.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-8.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-8.jpg"
+													<a href="assets/img/book/londres/Londres-8.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -305,11 +234,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-9.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-9.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-9.jpg"
+													<a href="assets/img/book/londres/Londres-9.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -324,11 +253,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-10.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-10.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-10.jpg"
+													<a href="assets/img/book/londres/Londres-10.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -343,11 +272,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-11.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-11.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-11.jpg"
+													<a href="assets/img/book/londres/Londres-11.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -362,11 +291,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-12.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-12.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-12.jpg"
+													<a href="assets/img/book/londres/Londres-12.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -381,11 +310,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-13.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-13.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-13.jpg"
+													<a href="assets/img/book/londres/Londres-13.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -400,11 +329,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-14.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-14.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-14.jpg"
+													<a href="assets/img/book/londres/Londres-14.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -419,11 +348,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-15.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-15.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-15.jpg"
+													<a href="assets/img/book/londres/Londres-15.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -438,125 +367,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-16.jpg" alt="image">
+												<img src="assets/img/book/londres/Londres-16.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-16.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="17" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-17.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-17.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="18" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-18.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-18.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="19" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-19.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-19.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="20" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-20.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-20.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="21" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-21.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-21.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="22" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/24h-Race/24h-Race-22.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/24h-Race/24h-Race-22.jpg"
+													<a href="assets/img/book/londres/Londres-16.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -580,7 +395,7 @@
 
 					<div class="poppin-more text-uppercase text-center">
 						<div class="more-btn">
-							<a href="sport-index.html">MORE SPORT WORKS</a>
+							<a href="street-index.php">MORE STREET WORKS</a>
 						</div>
 					</div>
 					<!-- //.more -->
@@ -593,39 +408,7 @@
 	<!-- End of portfolio section
 		============================================= -->
 
-
-
-
-
-	<!-- Start of footer section
-		============================================= -->
-	<footer>
-		<div class="footer-area footer-2">
-			<div class="container">
-				<div class="row">
-					<div class="copy-right-area text-center">
-						<div class="page-head-social-item ul-li">
-							<ul class="page-head-social-list">
-								<li><a href="https://www.facebook.com/Mister-Al-107344847316542" target="_blank"><span
-											class="ti-facebook"></span></a></li>
-								<li><a href="https://www.instagram.com/mister.alae/" target="_blank"><span
-											class="ti-instagram"></span></a></li>
-								<li><a href="https://www.youtube.com/channel/UCiWpNa8k6Nm8rmCslb7rYfw"
-										target="_blank"><span class="ti-youtube"></span></a></li>
-								<li><a href="https://vimeo.com/user22824343" target="_blank"><span
-											class="ti-vimeo"></span></a></li>
-							</ul><!-- /.page-head-social-list -->
-						</div>
-						<a href="mailto:contact@mister-alae.com">contact@mister-alae.com</a><br>
-						<span>© Mister Alae - All Rights Reserved </span>
-					</div>
-					<!-- //copy-right-area -->
-				</div><!--  /.container -->
-			</div><!--  /.row-->
-		</div><!--  /.footer-area -->
-	</footer>
-	<!-- End of footer section
-		============================================= -->
+	<?php include("footer.php") ?>
 
 
 

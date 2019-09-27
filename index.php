@@ -53,83 +53,7 @@
 <body>
 	<!-- <div id="preloader"></div> -->
 
-
-
-	<!-- Start of header
-		============================================= -->
-	<header class="header">
-		<div role="navigation" class="navbar navbar-default navbar-fixed-top">
-			<div class="container">
-				<div class="row">
-					<div class="col-4">
-						<div class="navbar-header">
-							<div class="navbar-buttons" style="width: 200px">
-								<a href="index.html" class="navbar-brand scroll-to"><img src="assets/img//logo/logo.png"
-										alt="logo" class="hidden-xs hidden-sm " width="60%"><img
-										src="assets/img//logo/logo.png" alt="logo" class="visible-xs visible-sm"
-										width="70%"></a>
-							</div>
-							<button type="button" data-toggle="collapse" data-target=".navbar-collapse"
-								class="navbar-toggle navbar-btn">Menu<i class="pe-7s-menu"></i></button>
-						</div>
-					</div>
-
-					<div class="col-8">
-						<div id="navigation" class="collapse navbar-collapse navbar-right">
-							<ul class="nav navbar-nav">
-						<li><a href="index.html">Home</a></li>
-						<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Fashion<span
-											class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="the-people-opium-portfolio.html">The People Opium</a></li>
-										<li><a href="la-villette-portfolio.html">La Villette</a></li>
-										<li><a href="adcl-portfolio.html">Eyewears</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Street Photography<span
-											class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="londres-portfolio.html">London</a></li>
-										<li><a href="tokyo-by-night-portfolio.html">Tokyo by Night</a></li>
-										<li><a href="rome-portfolio.html">Rome</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Sport<span class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="24h-race-portfolio.html">24h Race</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Festivals<span
-											class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="imaginarium-festival-portfolio.html">Imaginarium Festival 2019</a>
-										</li>
-									</ul>
-								</li>
-								<li>
-									<a href="videos.html">Videos</a>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header>
-	<!-- End of header
-		============================================= -->
-
-
-
-
+	<?php include("header.php"); ?>
 
 	<!-- Start of page head section
 		============================================= -->
@@ -181,7 +105,7 @@
 		<h1 class="text-center mb30">Photography</h1>
 		<div class="container mb30">
 			<div class="col-md-3">
-				<a href="fashion-index.html">
+				<a href="fashion-index.php">
 					<div class="work-item mb10">
 						<div class="work-pic">
 							<img src="assets/img/cadres/fashion-cadre.jpg" alt="image">
@@ -200,7 +124,7 @@
 				</a>
 			</div>
 			<div class="col-md-3">
-				<a href="street-index.html">
+				<a href="street-index.php">
 					<div class="work-item mb10">
 						<div class="work-pic">
 							<img src="assets/img/cadres/street-cadre.jpg" alt="image">
@@ -219,7 +143,7 @@
 				</a>
 			</div>
 			<div class="col-md-3">
-				<a href="sport-index.html">
+				<a href="sport-index.php">
 					<div class="work-item mb10">
 						<div class="work-pic">
 							<img src="assets/img/cadres/sport-cadre.jpg" alt="image">
@@ -238,7 +162,7 @@
 				</a>
 			</div>
 			<div class="col-md-3">
-				<a href="festivals-index.html">
+				<a href="festivals-index.php">
 					<div class="work-item mb10">
 						<div class="work-pic">
 							<img src="assets/img/cadres/festival-cadre.jpg" alt="image">
@@ -262,7 +186,7 @@
 	<hr>
 
 	<h1 class="text-center mb10">Video</h1>
-	<h4 class="text-center mb30"><a href="videos.html">Acceder à toutes les videos ...</a></h4>
+	<h4 class="text-center mb30"><a href="videos.php">Acceder à toutes les videos ...</a></h4>
 
 
 	<!-- Start of newsletter section
@@ -283,7 +207,7 @@
 			<div class="carousel-inner">
 
 				<div class="item active">
-					<a href="videos.html#sick">
+					<a href="videos.php#sick">
 						<img src="assets/img/videos/video-1.jpg" alt="Los Angeles" style="width:100%;">
 						<div class="carousel-caption mb10">
 							<h3 style="color:white">Sick</h3>
@@ -293,7 +217,7 @@
 				</div>
 
 				<div class="item">
-					<a href="videos.html#menuires">
+					<a href="videos.php#menuires">
 						<img src="assets/img/videos/video-2.jpg" alt="Chicago" style="width:100%;">
 						<div class="carousel-caption mb10">
 							<h3 style="color:white">Les Menuires</h3>
@@ -303,7 +227,7 @@
 				</div>
 
 				<div class="item">
-					<a href="videos.html#fanny-inge">
+					<a href="videos.php#fanny-inge">
 						<img src="assets/img/videos/video-3.jpg" alt="New York" style="width:100%;">
 						<div class="carousel-caption mb10">
 							<h3 style="color:white">Fanny, Ingénieure</h3>
@@ -313,7 +237,7 @@
 				</div>
 
 				<div class="item">
-					<a href="videos.html#jesuisqui">
+					<a href="videos.php#jesuisqui">
 						<img src="assets/img/videos/video-4.jpg" alt="Los Angeles" style="width:100%;">
 						<div class="carousel-caption mb10">
 							<h3 style="color:white">Je suis Qui</h3>
@@ -323,7 +247,7 @@
 				</div>
 
 				<div class="item">
-					<a href="videos.html#nuitdelessec">
+					<a href="videos.php#nuitdelessec">
 						<img src="assets/img/videos/video-5.jpg" alt="Chicago" style="width:100%;">
 						<div class="carousel-caption mb10">
 							<h3 style="color:white">Nuit de l'ESSEC</h3>
@@ -333,7 +257,7 @@
 				</div>
 
 				<div class="item">
-					<a href="videos.html#california">
+					<a href="videos.php#california">
 						<img src="assets/img/videos/video-6.jpg" alt="New York" style="width:100%;">
 						<div class="carousel-caption mb10">
 							<h3 style="color:white">California</h3>
@@ -358,38 +282,7 @@
 	<!-- End of newsletter section
 		============================================= -->
 
-
-
-
-	<!-- Start of footer section
-		============================================= -->
-	<footer>
-		<div class="footer-area footer-2">
-			<div class="container">
-				<div class="row">
-					<div class="copy-right-area text-center">
-						<div class="page-head-social-item ul-li">
-							<ul class="page-head-social-list">
-								<li><a href="https://www.facebook.com/Mister-Al-107344847316542" target="_blank"><span
-											class="ti-facebook"></span></a></li>
-								<li><a href="https://www.instagram.com/mister.alae/" target="_blank"><span
-											class="ti-instagram"></span></a></li>
-								<li><a href="https://www.youtube.com/channel/UCiWpNa8k6Nm8rmCslb7rYfw"
-										target="_blank"><span class="ti-youtube"></span></a></li>
-								<li><a href="https://vimeo.com/user22824343" target="_blank"><span
-											class="ti-vimeo"></span></a></li>
-							</ul><!-- /.page-head-social-list -->
-						</div>
-						<a href="mailto:contact@mister-alae.com">contact@mister-alae.com</a><br>
-						<span>© Mister Alae - All Rights Reserved </span>
-					</div>
-					<!-- //copy-right-area -->
-				</div><!--  /.container -->
-			</div><!--  /.row-->
-		</div><!--  /.footer-area -->
-	</footer>
-	<!-- End of footer section
-		============================================= -->
+		<?php include("footer.php") ?>
 
 
 

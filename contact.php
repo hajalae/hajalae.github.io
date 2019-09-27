@@ -3,14 +3,12 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Contact</title>
+	<title>Contact - Mister Alae</title>
 
 
-	<meta name="description" content="----">
+	<meta name="description" content="Contact form for Mister Alae">
 
-	<meta name="keywords" content="Premium HTML Template">
-
-	<meta name="author" content="HTMLmate">
+	<meta name="author" content="Alaeddine Hajjem">
 
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -36,84 +34,17 @@
 
 <body class="about single-page">
 
-	<!-- Start of header
-		============================================= -->
-	<header class="header">
-		<div role="navigation" class="navbar navbar-default navbar-fixed-top">
-			<div class="container">
-				<div class="row">
-					<div class="col-4">
-						<div class="navbar-header">
-							<div class="navbar-buttons" style="width: 200px">
-								<a href="index.html" class="navbar-brand scroll-to"><img src="assets/img//logo/logo.png"
-										alt="logo" class="hidden-xs hidden-sm " width="60%"><img
-										src="assets/img//logo/logo.png" alt="logo" class="visible-xs visible-sm"
-										width="70%"></a>
-							</div>
-							<button type="button" data-toggle="collapse" data-target=".navbar-collapse"
-								class="navbar-toggle navbar-btn">Menu<i class="pe-7s-menu"></i></button>
-						</div>
-					</div>
-
-					<div class="col-8">
-						<div id="navigation" class="collapse navbar-collapse navbar-right">
-							<ul class="nav navbar-nav">
-								<li><a href="index.html">Home</a></li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Fashion<span
-											class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="the-people-opium-portfolio.html">The People Opium</a></li>
-										<li><a href="la-villette-portfolio.html">La Villette</a></li>
-										<li><a href="adcl-portfolio.html">Eyewears</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Street Photography<span
-											class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="londres-portfolio.html">London</a></li>
-										<li><a href="tokyo-by-night-portfolio.html">Tokyo by Night</a></li>
-										<li><a href="rome-portfolio.html">Rome</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Sport<span class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="24h-race-portfolio.html">24h Race</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Festivals<span
-											class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="imaginarium-festival-portfolio.html">Imaginarium Festival 2019</a>
-										</li>
-									</ul>
-								</li>
-								<li>
-									<a href="videos.html">Videos</a>
-								</li>
-								<li>
-									<a href="contact.html">Contact</a>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header>
-	<!-- End of header
-		============================================= -->
+	<?php include("header.php") ?>
+	
 
 		<section id="about-me" class="pt50">
+
 			<div class="container">
-				<div class="row section-content">
+				<ol class="breadcrumb">
+					<li><a href="index.php">Home</a></li>
+					<li class="active"><a href="contact.php">Contact</a></li>
+				</ol>
+				<div class="row">
 					<div class="col-sm-2">
 						<h2>About Me</h2>
 					</div>
@@ -134,9 +65,9 @@
 
 	<!-- Start of contact us section
 		============================================= -->
-	<section id="contact" class="contact-us-section">
+	<section id="contact" class="contact-us-section pt50">
 		<div class="container">
-			<div class="row section-content">
+			<div class="row ">
 				<div class="contact-us-contact">
 
 					<div class="contact-area-form ">
@@ -151,7 +82,7 @@
 								<div class="contact-adress-form">
 									<p>Une question ? Une demande de prestation ? N'hésitez pas à m'envoyer un message,
 										je vous répondrai dans les plus brefs délais</p>
-									<form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+									<form id="contact_form" action="send-email.php" method="POST" enctype="multipart/form-data">
 										<div class="contact-info-item">
 											<input class="name" name="name" type="text" placeholder="Votre nom...">
 											<span><i class="fa fa-user" aria-hidden="true"></i></span>
@@ -161,7 +92,7 @@
 											<span><i class="fa fa-envelope" aria-hidden="true"></i></span>
 										</div>
 										<div class="contact-info-item">
-											<input class="sub" name="name" type="text"
+											<input class="sub" name="objet" type="text"
 												placeholder="Objet">
 											<span class="phone"><i class="fa fa-phone" aria-hidden="true"></i></span>
 										</div>
@@ -187,38 +118,7 @@
 	<!-- End of contact us section
 		============================================= -->
 
-
-
-
-	<!-- Start of footer section
-		============================================= -->
-	<footer>
-		<div class="footer-area footer-2">
-			<div class="container">
-				<div class="row">
-					<div class="copy-right-area text-center">
-						<div class="page-head-social-item ul-li">
-							<ul class="page-head-social-list">
-								<li><a href="https://www.facebook.com/Mister-Al-107344847316542" target="_blank"><span
-											class="ti-facebook"></span></a></li>
-								<li><a href="https://www.instagram.com/mister.alae/" target="_blank"><span
-											class="ti-instagram"></span></a></li>
-								<li><a href="https://www.youtube.com/channel/UCiWpNa8k6Nm8rmCslb7rYfw"
-										target="_blank"><span class="ti-youtube"></span></a></li>
-								<li><a href="https://vimeo.com/user22824343" target="_blank"><span
-											class="ti-vimeo"></span></a></li>
-							</ul><!-- /.page-head-social-list -->
-						</div>
-						<a href="mailto:contact@mister-alae.com">contact@mister-alae.com</a><br>
-						<span>© Mister Alae - All Rights Reserved </span>
-					</div>
-					<!-- //copy-right-area -->
-				</div><!--  /.container -->
-			</div><!--  /.row-->
-		</div><!--  /.footer-area -->
-	</footer>
-	<!-- End of footer section
-		============================================= -->
+		<?php include("footer.php") ?>
 
 
 

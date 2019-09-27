@@ -3,16 +3,16 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Tokyo By Night - Mister Alae</title>
+	<title>La Villette - Mister Alae</title>
 
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Tokyo By Night - Mister Alae" />
-	<meta property="og:url" content="http://mister-alae.com/tokyo-by-night-portfolio.html" />
+	<meta property="og:title" content="La Villette - Mister Alae" />
+	<meta property="og:url" content="http://mister-alae.com/la-villette-portfolio.php" />
 	<meta property="og:image"
-		content="http://mister-alae.com/assets/img/book/tokyo-by-night/Tokyo-By-Night-9.jpg" />
-	<meta property="og:description" content="The city full of lights - Street Photography" />
+		content="http://mister-alae.com/assets/img/book/shooting-daria/ogimage.jpg" />
+	<meta property="og:description" content="A fashion shooting on a summer afternoon in Paris - Fashion Photography" />
 
-	<meta name="keywords" content="Mister Alae, Photography, Street, Street Photography, Tokyo, Tokyo By Night, Japan">
+	<meta name="keywords" content="Mister Alae, Photography, Fashion, Photography, La Villette, Paris">
 
 	<meta name="author" content="Alaeddine Hajjem">
 
@@ -52,80 +52,7 @@
 <body>
 	<!-- <div id="preloader"></div> -->
 
-
-
-	<!-- Start of header
-		============================================= -->
-	<header class="header">
-		<div role="navigation" class="navbar navbar-default navbar-fixed-top">
-			<div class="container">
-				<div class="row">
-					<div class="col-4">
-						<div class="navbar-header">
-							<div class="navbar-buttons" style="width: 200px">
-								<a href="index.html" class="navbar-brand scroll-to"><img src="assets/img//logo/logo.png"
-										alt="logo" class="hidden-xs hidden-sm " width="60%"><img
-										src="assets/img//logo/logo.png" alt="logo" class="visible-xs visible-sm"
-										width="70%"></a>
-							</div>
-							<button type="button" data-toggle="collapse" data-target=".navbar-collapse"
-								class="navbar-toggle navbar-btn">Menu<i class="pe-7s-menu"></i></button>
-						</div>
-					</div>
-
-					<div class="col-8">
-						<div id="navigation" class="collapse navbar-collapse navbar-right">
-							<ul class="nav navbar-nav">
-								<li><a href="index.html">Home</a></li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Fashion<span
-											class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="the-people-opium-portfolio.html">The People Opium</a></li>
-										<li><a href="la-villette-portfolio.html">La Villette</a></li>
-										<li><a href="adcl-portfolio.html">Eyewears</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Street Photography<span
-											class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="londres-portfolio.html">London</a></li>
-										<li><a href="tokyo-by-night-portfolio.html">Tokyo by Night</a></li>
-										<li><a href="rome-portfolio.html">Rome</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Sport<span class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="24h-race-portfolio.html">24h Race</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Festivals<span
-											class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="imaginarium-festival-portfolio.html">Imaginarium Festival 2019</a>
-										</li>
-									</ul>
-								</li>
-								<li>
-									<a href="videos.html">Videos</a>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header>
-
-	<!-- End of header
-		============================================= -->
+	<?php include("header.php") ?>
 
 
 	<!-- Start of portfolio section
@@ -133,17 +60,17 @@
 	<section id="portfolio" class="portfolio-section">
 		<div class="container">
 			<ol class="breadcrumb">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="street-index.html">Street Photography</a></li>
-				<li class="active"><a href="tokyo-by-night-portfolio.html">Tokyo by Night</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="fashion-index.php">Fashion</a></li>
+				<li class="active"><a href="la-villette-portfolio.php">La Villette</a></li>
 			</ol>
 		</div>
 		<div class="container">
 			<div class="page-head-title text-capitalize text-center pb40">
-				<h1>Tokyo by Night</h1>
-				<span class="descrip">The city of lights</span>
+				<h1>La Villette</h1>
+				<span class="descrip">A Summer Afternoon in Paris</span>
 			</div>
-			<div w3-include-html="content.html"></div>
+			<div w3-include-html="content.php"></div>
 			<div class="row">
 				<div class="portfolio-content">
 					<div class="portfolio-tab pb55">
@@ -155,12 +82,12 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/tokyo-by-night/Tokyo-By-Night-1.jpg"
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-1.jpg"
 													alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/tokyo-by-night/Tokyo-By-Night-1.jpg"
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-1.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -175,12 +102,12 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/tokyo-by-night/Tokyo-By-Night-2.jpg"
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-2.jpg"
 													alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/tokyo-by-night/Tokyo-By-Night-2.jpg"
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-2.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -195,12 +122,12 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/tokyo-by-night/Tokyo-By-Night-3.jpg"
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-3.jpg"
 													alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/tokyo-by-night/Tokyo-By-Night-3.jpg"
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-3.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -215,12 +142,12 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/tokyo-by-night/Tokyo-By-Night-4.jpg"
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-4.jpg"
 													alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/tokyo-by-night/Tokyo-By-Night-4.jpg"
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-4.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -235,12 +162,12 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/tokyo-by-night/Tokyo-By-Night-5.jpg"
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-5.jpg"
 													alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/tokyo-by-night/Tokyo-By-Night-5.jpg"
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-5.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -255,12 +182,12 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/tokyo-by-night/Tokyo-By-Night-6.jpg"
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-6.jpg"
 													alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/tokyo-by-night/Tokyo-By-Night-6.jpg"
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-6.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -275,12 +202,12 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/tokyo-by-night/Tokyo-By-Night-7.jpg"
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-7.jpg"
 													alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/tokyo-by-night/Tokyo-By-Night-7.jpg"
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-7.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -295,12 +222,12 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/tokyo-by-night/Tokyo-By-Night-8.jpg"
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-8.jpg"
 													alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/tokyo-by-night/Tokyo-By-Night-8.jpg"
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-8.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -316,12 +243,12 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/tokyo-by-night/Tokyo-By-Night-9.jpg"
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-9.jpg"
 													alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/tokyo-by-night/Tokyo-By-Night-9.jpg"
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-9.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -336,12 +263,12 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/tokyo-by-night/Tokyo-By-Night-10.jpg"
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-10.jpg"
 													alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/tokyo-by-night/Tokyo-By-Night-10.jpg"
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-10.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -356,12 +283,12 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/tokyo-by-night/Tokyo-By-Night-11.jpg"
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-11.jpg"
 													alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/tokyo-by-night/Tokyo-By-Night-11.jpg"
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-11.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -376,12 +303,12 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/tokyo-by-night/Tokyo-By-Night-12.jpg"
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-12.jpg"
 													alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/tokyo-by-night/Tokyo-By-Night-12.jpg"
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-12.jpg"
 														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
@@ -391,6 +318,109 @@
 									</div>
 								</div>
 								<!-- /item -->
+
+								<div id="13" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-13.jpg"
+													alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-13.jpg"
+														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="14" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-14.jpg"
+													alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-14.jpg"
+														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="15" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-15.jpg"
+													alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-15.jpg"
+														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="16" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-16.jpg"
+													alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-16.jpg"
+														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="17" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/shooting-daria/Shooting-Daria-17.jpg"
+													alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/shooting-daria/Shooting-Daria-17.jpg"
+														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+
+
 
 							</div>
 							<!--//posts-->
@@ -402,7 +432,7 @@
 
 					<div class="poppin-more text-uppercase text-center">
 						<div class="more-btn">
-							<a href="street-index.html">MORE STREET WORKS</a>
+							<a href="fashion-index.php">MORE FASHION WORKS</a>
 						</div>
 					</div>
 					<!-- //.more -->
@@ -416,38 +446,7 @@
 		============================================= -->
 
 
-
-
-
-	<!-- Start of footer section
-		============================================= -->
-	<footer>
-		<div class="footer-area footer-2">
-			<div class="container">
-				<div class="row">
-					<div class="copy-right-area text-center">
-						<div class="page-head-social-item ul-li">
-							<ul class="page-head-social-list">
-								<li><a href="https://www.facebook.com/Mister-Al-107344847316542" target="_blank"><span
-											class="ti-facebook"></span></a></li>
-								<li><a href="https://www.instagram.com/mister.alae/" target="_blank"><span
-											class="ti-instagram"></span></a></li>
-								<li><a href="https://www.youtube.com/channel/UCiWpNa8k6Nm8rmCslb7rYfw"
-										target="_blank"><span class="ti-youtube"></span></a></li>
-								<li><a href="https://vimeo.com/user22824343" target="_blank"><span
-											class="ti-vimeo"></span></a></li>
-							</ul><!-- /.page-head-social-list -->
-						</div>
-						<a href="mailto:contact@mister-alae.com">contact@mister-alae.com</a><br>
-						<span>© Mister Alae - All Rights Reserved </span>
-					</div>
-					<!-- //copy-right-area -->
-				</div><!--  /.container -->
-			</div><!--  /.row-->
-		</div><!--  /.footer-area -->
-	</footer>
-	<!-- End of footer section
-		============================================= -->
+		<?php include("footer.php") ?>
 
 
 	<!--  Js Library -->

@@ -6,55 +6,55 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://mister-alae.com/fashion-index.html</loc>
+    <loc>http://mister-alae.com/fashion-index.php</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>http://mister-alae.com/street-index.html</loc>
+    <loc>http://mister-alae.com/street-index.php</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>http://mister-alae.com/sport-index.html</loc>
+    <loc>http://mister-alae.com/sport-index.php</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>http://mister-alae.com/festivals-index.html</loc>
+    <loc>http://mister-alae.com/festivals-index.php</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>http://mister-alae.com/videos.html</loc>
+    <loc>http://mister-alae.com/videos.php</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>http://mister-alae.com/the-people-opium-portfolio.html</loc>
+    <loc>http://mister-alae.com/the-people-opium-portfolio.php</loc>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>http://mister-alae.com/la-villette-portfolio.html</loc>
+    <loc>http://mister-alae.com/la-villette-portfolio.php</loc>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>http://mister-alae.com/adcl-portfolio.html</loc>
+    <loc>http://mister-alae.com/adcl-portfolio.php</loc>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>http://mister-alae.com/londres-portfolio.html</loc>
+    <loc>http://mister-alae.com/londres-portfolio.php</loc>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>http://mister-alae.com/tokyo-by-night-portfolio.html</loc>
+    <loc>http://mister-alae.com/tokyo-by-night-portfolio.php</loc>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>http://mister-alae.com/rome-portfolio.html</loc>
+    <loc>http://mister-alae.com/rome-portfolio.php</loc>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>http://mister-alae.com/24h-race-portfolio.html</loc>
+    <loc>http://mister-alae.com/24h-race-portfolio.php</loc>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>http://mister-alae.com/imaginarium-festival-portfolio.html</loc>
+    <loc>http://mister-alae.com/imaginarium-festival-portfolio.php</loc>
     <changefreq>yearly</changefreq>
   </url>
 </urlset>

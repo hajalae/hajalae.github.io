@@ -8,7 +8,7 @@
 	
     <meta property="og:type" content="website" />
 	<meta property="og:title" content="Roma - Mister Alae" />
-	<meta property="og:url" content="http://mister-alae.com/rome-portfolio.html" />
+	<meta property="og:url" content="http://mister-alae.com/rome-portfolio.php" />
 	<meta property="og:image"
 		content="http://mister-alae.com/assets/img/book/rome/Rome-24.jpg" />
 	<meta property="og:description" content="The great city museum - Street Photography" />
@@ -53,70 +53,16 @@
 <body>
 	<!-- <div id="preloader"></div> -->
 
-    <header class="header">
-            <div role="navigation" class="navbar navbar-default navbar-fixed-top">
-              <div class="container">
-                  <div class="row">
-                    <div class="col-4">
-                        <div class="navbar-header">
-                                    <div class="navbar-buttons" style="width: 200px">
-                                            <a href="index.html" class="navbar-brand scroll-to"><img src="assets/img//logo/logo.png" alt="logo" class="hidden-xs hidden-sm " width="60%"><img src="assets/img//logo/logo.png" alt="logo" class="visible-xs visible-sm" width="70%"></a>
-                                    </div>
-                        <button type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-toggle navbar-btn">Menu<i class="pe-7s-menu"></i></button>
-                        </div>
-                        </div>
-
-                        <div class="col-8">
-                            <div id="navigation" class="collapse navbar-collapse navbar-right">
-                            <ul class="nav navbar-nav">
-                                <li><a href="index.html">Home</a></li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Fashion<span class="caret"></span></a>
-                                    <ul class="dropdown-menu">
-                                    <li><a href="the-people-opium-portfolio.html">The People Opium</a></li>
-                                    <li><a href="la-villette-portfolio.html">La Villette</a></li>
-                                    <li><a href="adcl-portfolio.html">Eyewears</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Street Photography<span class="caret"></span></a>
-                                    <ul class="dropdown-menu">
-                                    <li><a href="londres-portfolio.html">London</a></li>
-                                    <li><a href="tokyo-by-night-portfolio.html">Tokyo by Night</a></li>
-                                    <li><a href="rome-portfolio.html">Rome</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sport<span class="caret"></span></a>
-                                    <ul class="dropdown-menu">
-                                    <li><a href="24h-race-portfolio.html">24h Race</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festivals<span class="caret"></span></a>
-                                    <ul class="dropdown-menu">
-                                    <li><a href="imaginarium-festival-portfolio.html">Imaginarium Festival 2019</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="videos.html">Videos</a>
-                                </li>
-                            </ul>
-                            </div>
-                        </div>
-                    </div>
-              </div>
-            </div>
-    </header>
+    <?php include("header.php") ?>
 
 	<!-- Start of portfolio section
 		============================================= -->
 		<section id="portfolio" class="portfolio-section">
             <div class="container">
                 <ol class="breadcrumb">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="street-index.html">Street Photography</a></li>
-                    <li class="active"><a href="rome-portfolio.html">Roma</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="street-index.php">Street Photography</a></li>
+                    <li class="active"><a href="rome-portfolio.php">Roma</a></li>
                 </ol>
             </div>
 			<div class="container">
@@ -124,7 +70,7 @@
 							<h1>Roma</h1>
 							<span class="descrip">The great city museum</span>
 					</div>
-					<div w3-include-html="content.html"></div>
+					<div w3-include-html="content.php"></div>
 				<div class="row">
 					<div class="portfolio-content">
 						<div class="portfolio-tab pb55">
@@ -762,7 +708,7 @@
 
 						<div class="poppin-more text-uppercase text-center">
 							<div class="more-btn">
-								<a href="street-index.html">MORE STREET WORKS</a>
+								<a href="street-index.php">MORE STREET WORKS</a>
 							</div>
 						</div>
 						<!-- //.more -->
@@ -775,38 +721,7 @@
 		============================================= -->
 
 
-
-
-
-	<!-- Start of footer section
-		============================================= -->
-		<footer>
-            <div class="footer-area footer-2">
-                <div class="container">
-                    <div class="row">
-                        <div class="copy-right-area text-center">
-                            <div class="page-head-social-item ul-li">
-                                <ul class="page-head-social-list">
-                                    <li><a href="https://www.facebook.com/Mister-Al-107344847316542" target="_blank"><span
-                                                class="ti-facebook"></span></a></li>
-                                    <li><a href="https://www.instagram.com/mister.alae/" target="_blank"><span
-                                                class="ti-instagram"></span></a></li>
-                                    <li><a href="https://www.youtube.com/channel/UCiWpNa8k6Nm8rmCslb7rYfw"
-                                            target="_blank"><span class="ti-youtube"></span></a></li>
-                                    <li><a href="https://vimeo.com/user22824343" target="_blank"><span
-                                                class="ti-vimeo"></span></a></li>
-                                </ul><!-- /.page-head-social-list -->
-                            </div>
-                            <a href="mailto:contact@mister-alae.com">contact@mister-alae.com</a><br>
-                            <span>© Mister Alae - All Rights Reserved </span>
-                        </div>
-                        <!-- //copy-right-area -->
-                    </div><!--  /.container -->
-                </div><!--  /.row-->
-            </div><!--  /.footer-area -->
-        </footer>
-	<!-- End of footer section
-		============================================= -->
+        <?php include("footer.php") ?>
 
 
 		<!--  Js Library -->
