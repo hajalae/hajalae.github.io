@@ -57,4 +57,8 @@
     <loc>http://mister-alae.com/imaginarium-festival-portfolio.php</loc>
     <changefreq>yearly</changefreq>
   </url>
+  <url>
+    <loc>http://mister-alae.com/contact.php</loc>
+    <changefreq>yearly</changefreq>
+  </url>
 </urlset>
