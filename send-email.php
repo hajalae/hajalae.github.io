@@ -1,11 +1,36 @@
-<?php $name = $_POST['name'];
+<?php 
+
+    $name = $_POST['name'];
     $email = $_POST['email'];
-    $message = $_POST['message'];
-    $formcontent="From: $name \n Message: $message";
-    $recipient = "contact@mister-alae.com";
     $subject = $_POST['objet'];
-    $mailheader = "From: $email \r\n";
-    mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
+    $message = $_POST['message'];
+    
+    $recipient = "contact@mister-alae.com";
+
+    $mail_Data = "";
+    $mail_Data .= "$message\n\n";
+    $mail_Data .= "-------------\n\n";
+    $mail_Data .= "Nom : $name\n";
+    $mail_Data .= "Email : $email";
+
+    $headers = "From: $email  \n";
+
+    mail($recipient, $subject, $mail_Data, $headers) or die("Error!");
+
+
+    $mail_Data2 = "";
+    $mail_Data2 .= "Bonjour $name,\n\n";
+    $mail_Data2 .= "Merci de m'avoir contacté, je vous recontacterai dans les plus brefs délais pour répondre à votre demande.\n\n";
+    $mail_Data2 .= "A bientôt,\n\n";
+    $mail_Data2 .= "Mister Alae\n";
+    $mail_Data2 .= "http://www.mister-alae.com\n\n";
+    $mail_Data2 .= "-------------\n\n";
+    $mail_Data2 .= "Récapitulatif du message : \n";
+    $mail_Data2 .= $message;
+
+    $headers2 = "From: $recipient \n";
+
+    mail($email, "Mister Alae - $subject", $mail_Data2, $headers2) or die("Error!");
 ?>
 
 <!DOCTYPE html>
