@@ -69,6 +69,8 @@
 			<div class="page-head-title text-capitalize text-center pb40">
 				<h1>La Villette</h1>
 				<span class="descrip">A Summer Afternoon in Paris</span>
+				<br/>
+				<span class="descrip">Juillet 2019</span>
 			</div>
 			<div w3-include-html="content.php"></div>
 			<div class="row">

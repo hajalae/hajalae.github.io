@@ -69,6 +69,8 @@
 			<div class="page-head-title text-capitalize text-center pb40">
 				<h1>Tokyo by Night</h1>
 				<span class="descrip">The city of lights</span>
+				<br/>
+				<span class="descrip">Septembre 2019</span>
 			</div>
 			<div w3-include-html="content.php"></div>
 			<div class="row">

@@ -86,9 +86,11 @@
 		</ol>
 	</div>
 
+	<h5 class="text-center">Click on a picture to reveal the album</h5>
+
 	<section id="portfolio" class="portfolio-section">
 		<div class="container mb30">
-			<div class="col-lg-4">
+			<div class="col-xs-6 col-lg-4">
 				<a href="tokyo-by-night-portfolio.php">
 					<div class="work-item mb10">
 						<div class="work-pic">
@@ -107,7 +109,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-lg-4">
+			<div class="col-xs-6 col-lg-4">
 				<a href="londres-portfolio.php">
 					<div class="work-item mb10">
 						<div class="work-pic">
@@ -126,7 +128,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-lg-4">
+			<div class="col-xs-6 col-lg-4">
 				<a href="rome-portfolio.php">
 					<div class="work-item mb10">
 						<div class="work-pic">

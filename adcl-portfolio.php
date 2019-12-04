@@ -73,6 +73,8 @@
 			<div class="page-head-title text-capitalize text-center pb40">
 				<h1>Schott - Perfecto - Whistler Hills Eyewear</h1>
 				<span class="descrip">Shooting for several eyewear brands</span>
+				<br/>
+				<span class="descrip">Décembre 2018</span>
 			</div>
 			<div w3-include-html="content.php"></div>
 			<div class="row">

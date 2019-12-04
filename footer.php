@@ -1,3 +1,5 @@
+	<?php include("adsense.php") ?>
+	
 	<!-- Start of footer section
 		============================================= -->
         <footer>

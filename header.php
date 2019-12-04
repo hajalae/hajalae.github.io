@@ -25,11 +25,14 @@
 						<li><a href="index.php">Home</a></li>
 						<li class="dropdown">
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-										aria-haspopup="true" aria-expanded="false">Fashion<span
+										aria-haspopup="true" aria-expanded="false">Portrait / Fashion<span
 											class="caret"></span></a>
 									<ul class="dropdown-menu">
-										<li><a href="the-people-opium-portfolio.php">The People Opium</a></li>
+										<li><a href="shooting-tattoos.php">Colors & Tattoos</a></li>
+										<li><a href="yellow-leaves.php">Yellow Leaves</a></li>
+										<li><a href="Candle-Night.php">Candle Night</a></li>
 										<li><a href="la-villette-portfolio.php">La Villette</a></li>
+										<li><a href="the-people-opium-portfolio.php">The People Opium</a></li>
 										<li><a href="adcl-portfolio.php">Eyewears</a></li>
 									</ul>
 								</li>

@@ -69,6 +69,8 @@
 			<div class="page-head-title text-capitalize text-center pb40">
 				<h1>London</h1>
 				<span class="descrip">A mix between business and humanity</span>
+				<br/>
+				<span class="descrip">Juin 2019</span>
 			</div>
 			<div class="row">
 				<div class="portfolio-content">

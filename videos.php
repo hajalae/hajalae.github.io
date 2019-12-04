@@ -163,6 +163,8 @@
 		</div>
 	</section>
 
+	<?php include("adsense.php") ?>
+
 	<hr id="california">
 
 	<section id="blog-single" class="blog-single-content pt90">
@@ -301,6 +303,7 @@
 		</div>
 	</section>
 
+	<?php include("adsense.php") ?>
 	<hr>
 
 	<section id="blog-single" class="blog-single-content pt90">

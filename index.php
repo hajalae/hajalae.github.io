@@ -47,6 +47,8 @@
 
 		gtag('config', 'UA-148590438-1');
 	</script>
+
+	<script data-ad-client="ca-pub-5180446411409955" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
 
@@ -103,8 +105,9 @@
 
 	<section id="portfolio" class="portfolio-section">
 		<h1 class="text-center mb30">Photography</h1>
+		<h5 class="text-center mb30">Click on a picture to reveal the portfolio</h5>
 		<div class="container mb30">
-			<div class="col-md-3">
+			<div class="col-xs-6 col-md-3">
 				<a href="fashion-index.php">
 					<div class="work-item mb10">
 						<div class="work-pic">
@@ -112,18 +115,18 @@
 						</div>
 						<!-- //img -->
 						<div class="project-description text-uppercase ul-li">
-							<h3>Fashion</h3>
+							<h3>Portrait / Fashion</h3>
 							<ul class="project-catagorry text-capitalize">
 								<li>Portfolio</li>
 							</ul>
 						</div>
 					</div>
 					<div class="page-head-title text-capitalize text-center pb40">
-						<h4 class="descrip">Fashion</h4>
+						<h4 class="descrip">Portrait / Fashion</h4>
 					</div>
 				</a>
 			</div>
-			<div class="col-md-3">
+			<div class="col-xs-6 col-md-3">
 				<a href="street-index.php">
 					<div class="work-item mb10">
 						<div class="work-pic">
@@ -142,7 +145,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-3">
+			<div class="col-xs-6 col-md-3">
 				<a href="sport-index.php">
 					<div class="work-item mb10">
 						<div class="work-pic">
@@ -161,7 +164,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-3">
+			<div class="col-xs-6 col-md-3">
 				<a href="festivals-index.php">
 					<div class="work-item mb10">
 						<div class="work-pic">
@@ -182,8 +185,6 @@
 			</div>
 		</div>
 	</section>
-
-	<hr>
 
 	<h1 class="text-center mb10">Video</h1>
 	<h4 class="text-center mb30"><a href="videos.php">Acceder à toutes les videos ...</a></h4>

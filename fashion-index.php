@@ -37,11 +37,14 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 
 	<link rel="icon" type="image/png" href="assets/img/favicon.png" />
-<!-- Global site tag (gtag.js) - Google Analytics -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148590438-1"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
 		gtag('js', new Date());
 
 		gtag('config', 'UA-148590438-1');
@@ -67,7 +70,7 @@
 				<div class="banner-content">
 					<div class="page-head-content">
 						<div class="page-head-title text-capitalize pb40">
-							<h1>Fashion</h1>
+							<h1>Portrait / Fashion</h1>
 							<span class="descrip">Some fashion photography french style</span>
 						</div>
 						<!-- //title -->
@@ -83,32 +86,72 @@
 	<div class="container">
 		<ol class="breadcrumb">
 			<li><a href="index.php">Home</a></li>
-			<li class="active"><a href="fashion-index.php">Fashion</a></li>
+			<li class="active"><a href="fashion-index.php">Portrait / Fashion</a></li>
 		</ol>
 	</div>
 
+	<h5 class="text-center">Click on a picture to reveal the album</h5>
+
 	<section id="portfolio" class="portfolio-section">
 		<div class="container mb30">
-			<div class="col-lg-4">
-				<a href="the-people-opium-portfolio.php">
+			<div class="col-xs-6 col-md-3">
+				<a href="shooting-tattoos.php">
 					<div class="work-item mb10">
 						<div class="work-pic">
-							<img src="assets/img/cadres/the-people-opium-cadre.jpg" alt="image">
+							<img src="assets/img/cadres/tattoo-cadre.jpg" alt="image">
 						</div>
 						<!-- //img -->
 						<div class="project-description text-uppercase ul-li">
-							<h3>The People Opium</h3>
+							<h3>Colors & Tattoos</h3>
 							<ul class="project-catagorry text-capitalize">
-								<li>French fashion brand</li>
+								<li>A Japanese tattoo Artist</li>
 							</ul>
 						</div>
 					</div>
 					<div class="page-head-title text-capitalize text-center pb40">
-						<h4 class="descrip">The People Opium</h4>
+						<h4 class="descrip">Colors & Tattoos</h4>
 					</div>
 				</a>
 			</div>
-			<div class="col-lg-4">
+			<div class="col-xs-6 col-md-3">
+				<a href="yellow-leaves.php">
+					<div class="work-item mb10">
+						<div class="work-pic">
+							<img src="assets/img/cadres/yellow-leaves-cadre.jpg" alt="image">
+						</div>
+						<!-- //img -->
+						<div class="project-description text-uppercase ul-li">
+							<h3>Yellow Leaves</h3>
+							<ul class="project-catagorry text-capitalize">
+								<li>An autumn shooting in Japan</li>
+							</ul>
+						</div>
+					</div>
+					<div class="page-head-title text-capitalize text-center pb40">
+						<h4 class="descrip">Yellow Leaves</h4>
+					</div>
+				</a>
+			</div>
+			<div class="col-xs-6 col-md-3">
+				<a href="Candle-Night.php">
+					<div class="work-item mb10">
+						<div class="work-pic">
+							<img src="assets/img/cadres/candle-night-cadre.jpg" alt="image">
+						</div>
+						<!-- //img -->
+						<div class="project-description text-uppercase ul-li">
+							<h3>The Candle Night</h3>
+							<ul class="project-catagorry text-capitalize">
+								<li>One night in Tokyo</li>
+							</ul>
+						</div>
+					</div>
+					<div class="page-head-title text-capitalize text-center pb40">
+						<h4 class="descrip">The Candle Night</h4>
+					</div>
+				</a>
+			</div>
+			<div class="col-xs-6 col-md-3">
 				<a href="la-villette-portfolio.php">
 					<div class="work-item mb10">
 						<div class="work-pic">
@@ -127,7 +170,26 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-lg-4">
+			<div class="col-xs-6 col-md-3 col-md-offset-3">
+				<a href="the-people-opium-portfolio.php">
+					<div class="work-item mb10">
+						<div class="work-pic">
+							<img src="assets/img/cadres/the-people-opium-cadre.jpg" alt="image">
+						</div>
+						<!-- //img -->
+						<div class="project-description text-uppercase ul-li">
+							<h3>The People Opium</h3>
+							<ul class="project-catagorry text-capitalize">
+								<li>French fashion brand</li>
+							</ul>
+						</div>
+					</div>
+					<div class="page-head-title text-capitalize text-center pb40">
+						<h4 class="descrip">The People Opium</h4>
+					</div>
+				</a>
+			</div>
+			<div class="col-xs-6 col-md-3">
 				<a href="adcl-portfolio.php">
 					<div class="work-item mb10">
 						<div class="work-pic">

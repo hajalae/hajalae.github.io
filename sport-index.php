@@ -86,6 +86,8 @@
 		</ol>
 	</div>
 
+	<h5 class="text-center">Click on a picture to reveal the album</h5>
+
 	<section id="portfolio" class="portfolio-section">
 		<div class="container mb30">
 			<div class="col-lg-4">

@@ -68,6 +68,8 @@
 			<div class="page-head-title text-capitalize text-center pb40">
 				<h1>24h Race</h1>
 				<span class="descrip">A 24h karting tournament organised by Race ESSEC</span>
+				<br/>
+				<span class="descrip">Avril 2019</span>
 			</div>
 			<div class="row">
 				<div class="portfolio-content">

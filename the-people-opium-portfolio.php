@@ -68,6 +68,8 @@
 			<div class="page-head-title text-capitalize text-center pb40">
 				<h1>The People Opium</h1>
 				<span class="descrip">Fashion Brand Shooting</span>
+				<br/>
+				<span class="descrip">Mai 2019</span>
 			</div>
 			<div w3-include-html="content.php"></div>
 			<div class="row">

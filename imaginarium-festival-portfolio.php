@@ -70,6 +70,8 @@
 				<h1>Imaginarium Festival 2019</h1>
 				<span class="descrip">Student Festival organized by Université de Technologie de Compiègne
 					Students</span>
+				<br/>
+				<span class="descrip">Juin 2019</span>
 			</div>
 			<div class="container text-center">
 				<p><a href="https://www.imaginariumfestival.com/" target="_blank">www.imaginariumfestival.com</a></p>
