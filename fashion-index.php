@@ -95,6 +95,44 @@
 	<section id="portfolio" class="portfolio-section">
 		<div class="container mb30">
 			<div class="col-xs-6 col-md-3">
+				<a href="jasmine-portfolio.php">
+					<div class="work-item mb10">
+						<div class="work-pic">
+							<img src="assets/img/cadres/jasmine-cadre.jpg" alt="image">
+						</div>
+						<!-- //img -->
+						<div class="project-description text-uppercase ul-li">
+							<h3>Walk with Jasmine</h3>
+							<ul class="project-catagorry text-capitalize">
+								<li>Un promenade d'automne au Japon</li>
+							</ul>
+						</div>
+					</div>
+					<div class="page-head-title text-capitalize text-center pb40">
+						<h4 class="descrip">Walk with Jasmine</h4>
+					</div>
+				</a>
+			</div>
+			<div class="col-xs-6 col-md-3">
+				<a href="saya-portfolio.php">
+					<div class="work-item mb10">
+						<div class="work-pic">
+							<img src="assets/img/cadres/saya-cadre.jpg" alt="image">
+						</div>
+						<!-- //img -->
+						<div class="project-description text-uppercase ul-li">
+							<h3>Saya la Joie</h3>
+							<ul class="project-catagorry text-capitalize">
+								<li></li>
+							</ul>
+						</div>
+					</div>
+					<div class="page-head-title text-capitalize text-center pb40">
+						<h4 class="descrip">Saya la Joie</h4>
+					</div>
+				</a>
+			</div>
+			<div class="col-xs-6 col-md-3">
 				<a href="shooting-tattoos.php">
 					<div class="work-item mb10">
 						<div class="work-pic">
@@ -170,7 +208,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-xs-6 col-md-3 col-md-offset-3">
+			<div class="col-xs-6 col-md-3">
 				<a href="the-people-opium-portfolio.php">
 					<div class="work-item mb10">
 						<div class="work-pic">

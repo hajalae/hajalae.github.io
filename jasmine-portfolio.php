@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="fr">
 
 <head>
 	<meta charset="utf-8">
-	<title>Colors & Tattoos - Mister Alae</title>
+	<title>Walk with Jasmine - Mister Alae</title>
 
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Colors and Tattoos - Mister Alae" />
-	<meta property="og:url" content="http://www.mister-alae.com/shooting-tattoos.php" />
-	<meta property="og:image" content="http://www.mister-alae.com/assets/img/book/shooting-tattoo/Shooting-Tattoo-66.jpg" />
+	<meta property="og:title" content="Walk with Jasmine - Mister Alae" />
+	<meta property="og:url" content="http://www.mister-alae.com/jasmine-portfolio.php" />
+	<meta property="og:image" content="http://www.mister-alae.com/assets/img/book/jasmine/Jasmine-12.jpg" />
 	<meta property="og:description" content="Shooting d'une artiste tatoueuse Japonaise" />
 
-	<meta name="keywords" content="Tattoos, Tattoo photography, Colors photography, Photography, Tokyo, Japan, French Photographer, Portrait">
+	<meta name="keywords" content="Automne, Fashion, Parc Japonais, Photography, Tokyo, Japan, French Photographer, Portrait">
 
 	<meta name="author" content="Alaeddine Hajjem">
 
@@ -64,14 +64,14 @@
 			<ol class="breadcrumb">
 				<li><a href="index.php">Home</a></li>
 				<li><a href="fashion-index.php">Portrait / Fashion</a></li>
-				<li class="active"><a href="shooting-tattoos.php">Colors & Tattoos</a></li>
+				<li class="active"><a href="jasmine-portfolio.php">Walk with Jasmine</a></li>
 			</ol>
 		</div>
 		<div class="container">
 			<div class="page-head-title text-capitalize text-center pb40">
-				<h1>Colors & Tattoos</h1>
-				<span class="descrip">Shooting d'une artiste tatoueuse Japonaise</span>
-				<br/>
+				<h1>Walk with Jasmine</h1>
+				<span class="descrip">Une promenade d'automne au Japon</span>
+				<br />
 				<span class="descrip">Novembre 2019</span>
 			</div>
 			<div class="row">
@@ -81,15 +81,16 @@
 
 						<div class="portfolio-tab-text-pic row">
 							<div id="posts">
-								<div id="2" class="item item-grid web">
+
+								<div id="1" class="item item-grid web">
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-2.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-1.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-2.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-1.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -99,15 +100,15 @@
 								</div>
 								<!-- /item -->
 
-								<div id="1" class="item item-grid web">
+								<div id="2" class="item item-grid web">
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-1.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-2.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-1.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-2.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -121,11 +122,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-3.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-3.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-3.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-3.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -139,11 +140,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-4.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-4.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-4.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-4.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -157,11 +158,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-5.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-5.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-5.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-5.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -175,11 +176,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-6.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-6.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-6.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-6.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -193,11 +194,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-7.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-7.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-7.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-7.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -211,11 +212,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-8.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-8.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-8.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-8.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -224,161 +225,16 @@
 									</div>
 								</div>
 								<!-- /item -->
-
 
 								<div id="9" class="item item-grid web">
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-9.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-9.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-9.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="10" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-10.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-10.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="11" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-11.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-11.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="12" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-12.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-12.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="13" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-13.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-13.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="14" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-14.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-14.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="15" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-15.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-15.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="16" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-16.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-16.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="17" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-17.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-17.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-9.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -392,11 +248,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-18.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-18.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-18.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-18.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -406,15 +262,124 @@
 								</div>
 								<!-- /item -->
 
-								<div id="19" class="item item-grid web">
+								<div id="10" class="item item-grid web">
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-19.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-10.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-19.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-10.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+
+								<div id="12" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/jasmine/Jasmine-12.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/jasmine/Jasmine-12.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="11" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/jasmine/Jasmine-11.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/jasmine/Jasmine-11.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="13" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/jasmine/Jasmine-13.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/jasmine/Jasmine-13.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="14" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/jasmine/Jasmine-14.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/jasmine/Jasmine-14.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="15" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/jasmine/Jasmine-15.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/jasmine/Jasmine-15.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="17" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/jasmine/Jasmine-17.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/jasmine/Jasmine-17.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -428,11 +393,29 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-20.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-20.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-20.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-20.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="19" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/jasmine/Jasmine-19.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/jasmine/Jasmine-19.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -446,29 +429,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-21.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-21.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-21.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="22" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-22.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-22.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-21.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -482,11 +447,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-23.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-23.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-23.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-23.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -500,11 +465,47 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-24.jpg" alt="image">
+												<img src="assets/img/book/jasmine/Jasmine-24.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/shooting-tattoo/Shooting-Tattoo-24.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/jasmine/Jasmine-24.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="25" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/jasmine/Jasmine-25.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/jasmine/Jasmine-25.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="22" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/jasmine/Jasmine-22.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/jasmine/Jasmine-22.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
