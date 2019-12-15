@@ -123,7 +123,7 @@
 						<div class="project-description text-uppercase ul-li">
 							<h3>Saya la Joie</h3>
 							<ul class="project-catagorry text-capitalize">
-								<li></li>
+								<li>La joie des parcs Nippons</li>
 							</ul>
 						</div>
 					</div>
