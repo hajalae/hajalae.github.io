@@ -38,11 +38,14 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 
 	<link rel="icon" type="image/png" href="assets/img/favicon.png" />
-<!-- Global site tag (gtag.js) - Google Analytics -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148590438-1"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
 		gtag('js', new Date());
 
 		gtag('config', 'UA-148590438-1');
@@ -82,14 +85,10 @@
 							<!-- //title -->
 							<div class="page-head-social-item ul-li">
 								<ul class="page-head-social-list">
-									<li><a href="https://www.facebook.com/Mister-Al-107344847316542"
-											target="_blank"><span class="ti-facebook"></span></a></li>
-									<li><a href="https://www.instagram.com/mister.alae/" target="_blank"><span
-												class="ti-instagram"></span></a></li>
-									<li><a href="https://www.youtube.com/channel/UCiWpNa8k6Nm8rmCslb7rYfw"
-											target="_blank"><span class="ti-youtube"></span></a></li>
-									<li><a href="https://vimeo.com/user22824343" target="_blank"><span
-												class="ti-vimeo"></span></a></li>
+									<li><a href="https://www.facebook.com/Mister-Al-107344847316542" target="_blank"><span class="ti-facebook"></span></a></li>
+									<li><a href="https://www.instagram.com/mister.alae/" target="_blank"><span class="ti-instagram"></span></a></li>
+									<li><a href="https://www.youtube.com/channel/UCiWpNa8k6Nm8rmCslb7rYfw" target="_blank"><span class="ti-youtube"></span></a></li>
+									<li><a href="https://vimeo.com/user22824343" target="_blank"><span class="ti-vimeo"></span></a></li>
 								</ul><!-- /.page-head-social-list -->
 							</div><!-- /.page-head-social-item -->
 						</div>
@@ -103,8 +102,170 @@
 	<!-- End of page head section
 		============================================= -->
 
+	<section class="container text-center">
+		<h1 class="text-center mt30 mb10">My last shootings</h1>
+		<h5 class="text-center mb30">Click on a picture to reveal the portfolio</h5>
+		<div class="row">
+			<div class="col-6">
+				<div id="lastShoots" class="carousel slide mb30" data-ride="carousel">
+					<!-- Indicators -->
+					<ol class="carousel-indicators">
+						<li data-target="#lastShoots" data-slide-to="0" class="active"></li>
+						<li data-target="#lastShoots" data-slide-to="1"></li>
+						<li data-target="#lastShoots" data-slide-to="2"></li>
+						<li data-target="#lastShoots" data-slide-to="3"></li>
+						<li data-target="#lastShoots" data-slide-to="4"></li>
+						<li data-target="#lastShoots" data-slide-to="5"></li>
+						<li data-target="#lastShoots" data-slide-to="6"></li>
+						<li data-target="#lastShoots" data-slide-to="7"></li>
+						<li data-target="#lastShoots" data-slide-to="8"></li>
+						<li data-target="#lastShoots" data-slide-to="9"></li>
+					</ol>
+
+					<!-- Wrapper for slides -->
+					<div class="carousel-inner" style="background-color:#BBBBBB">
+
+						<div class="item active">
+							<div class="container text-center">
+								<a href="salome-portfolio.php">
+									<img src="assets/img/book/chic-ballade/shooting-salome-15.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									<div class="carousel-caption mb10">
+										<h3 style="color:white">Chic Ballade</h3>
+										<p>Une Après Midi Dans Les Ruelles De Paris</p>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="container text-center">
+								<a href="ivy-portfolio.php">
+									<img src="assets/img/book/tokyo-love/shooting-ivy-3.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									<div class="carousel-caption mb10">
+										<h3 style="color:white">Tokyo Love</h3>
+										<p>Street Portraits In Tokyo</p>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="container text-center">
+								<a href="sofie-portfolio.php">
+									<img src="assets/img/book/bodypainting-love/shooting-sofie-6.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									<div class="carousel-caption mb10">
+										<h3 style="color:white">Bodypainting Love</h3>
+										<p>Bodypainting Session</p>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="container text-center">
+								<a href="jasmine-portfolio.php">
+									<img src="assets/img/book/jasmine/Jasmine-19.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									<div class="carousel-caption mb10">
+										<h3 style="color:white">Walk with Jasmine</h3>
+										<p>Une Promenade D'automne Au Japon</p>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="container text-center">
+								<a href="saya-portfolio.php">
+									<img src="assets/img/book/saya/Saya-10.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									<div class="carousel-caption mb10">
+										<h3 style="color:white">Saya la Joie</h3>
+										<p>La Joie Des Parcs Nippons</p>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="container text-center">
+								<a href="shooting-tattoos.php">
+									<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-24.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									<div class="carousel-caption mb10">
+										<h3 style="color:white">Colors & Tattoos</h3>
+										<p>Shooting D'une Artiste Tatoueuse Japonaise</p>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="container text-center">
+								<a href="yellow-leaves.php">
+									<img src="assets/img/book/yellow-leaves/Yellow-Leaves-9.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									<div class="carousel-caption mb10">
+										<h3 style="color:white">Yellow Leaves</h3>
+										<p>Une Belle Journée D'automne Japonaise</p>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="container text-center">
+								<a href="Candle-Night.php">
+									<img src="assets/img/book/candle-night/Candle-Night-5.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									<div class="carousel-caption mb10">
+										<h3 style="color:white">Candle Night</h3>
+										<p>Une Nuit Tokyoïte Éclairée Par La Lueur Des Bougies</p>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="container text-center">
+								<a href="la-villette-portfolio.php">
+									<img src="assets/img/book/shooting-daria/Shooting-Daria-6.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									<div class="carousel-caption mb10">
+										<h3 style="color:white">La Villette</h3>
+										<p>A Summer Afternoon In Paris</p>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="container text-center">
+								<a href="the-people-opium-portfolio.php">
+									<img src="assets/img/book/the-people-opium/The-People-Opium-12.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									<div class="carousel-caption mb10">
+										<h3 style="color:white">The People Opium</h3>
+										<p>Fashion Brand Shooting</p>
+									</div>
+								</a>
+							</div>
+						</div>
+
+
+					</div>
+
+					<!-- Left and right controls -->
+					<a class="left carousel-control" href="#lastShoots" data-slide="prev">
+						<span class="glyphicon glyphicon-chevron-left"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="right carousel-control" href="#lastShoots" data-slide="next">
+						<span class="glyphicon glyphicon-chevron-right"></span>
+						<span class="sr-only">Next</span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
 	<section id="portfolio" class="portfolio-section">
-		<h1 class="text-center mb30">Photography</h1>
+		<h1 class="text-center mb10">Photography</h1>
 		<h5 class="text-center mb30">Click on a picture to reveal the portfolio</h5>
 		<div class="container mb30">
 			<div class="col-xs-6 col-md-3">
@@ -186,13 +347,23 @@
 		</div>
 	</section>
 
-	<h1 class="text-center mb10">Video</h1>
-	<h4 class="text-center mb30"><a href="videos.php">Acceder à toutes les videos ...</a></h4>
+	<section>
+		<div class="container" align='center'>
+			<h2><a href='https://www.instagram.com/mister.alae/' target='_blank'>Find me on Instagam</a></h2>
+			<div style="width:90%">
+				<div class='embedsocial-instagram' data-ref="74ba58a87d62fbc140ca6fcb079428c1d2d09eb0"></div>
+			</div>
+		</div>
+	</section>
+
+
 
 
 	<!-- Start of newsletter section
 		============================================= -->
 	<section class="container">
+		<h1 class="text-center mb10">Video</h1>
+		<h4 class="text-center mb30"><a href="videos.php">See all the videos ...</a></h4>
 		<div id="myCarousel" class="carousel slide mb30" data-ride="carousel">
 			<!-- Indicators -->
 			<ol class="carousel-indicators">
@@ -283,7 +454,7 @@
 	<!-- End of newsletter section
 		============================================= -->
 
-		<?php include("footer.php") ?>
+	<?php include("footer.php") ?>
 
 
 
@@ -309,6 +480,19 @@
 
 	<!-- Include script.js -->
 	<script src="assets/js/script.js"></script>
+
+	<script>
+		(function(d, s, id) {
+			var js;
+			if (d.getElementById(id)) {
+				return;
+			}
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "https://embedsocial.com/embedscript/in.js";
+			d.getElementsByTagName("head")[0].appendChild(js);
+		}(document, "script", "EmbedSocialInstagramScript"));
+	</script>
 
 
 </body>

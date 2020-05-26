@@ -95,6 +95,63 @@
 	<section id="portfolio" class="portfolio-section">
 		<div class="container mb30">
 			<div class="col-xs-6 col-md-3">
+				<a href="salome-portfolio.php">
+					<div class="work-item mb10">
+						<div class="work-pic">
+							<img src="assets/img/cadres/salome-cadre.jpg" alt="image">
+						</div>
+						<!-- //img -->
+						<div class="project-description text-uppercase ul-li">
+							<h3>Chic Ballade</h3>
+							<ul class="project-catagorry text-capitalize">
+								<li>Portraits dans Paris</li>
+							</ul>
+						</div>
+					</div>
+					<div class="page-head-title text-capitalize text-center pb40">
+						<h4 class="descrip">Chic Ballade</h4>
+					</div>
+				</a>
+			</div>
+			<div class="col-xs-6 col-md-3">
+				<a href="ivy-portfolio.php">
+					<div class="work-item mb10">
+						<div class="work-pic">
+							<img src="assets/img/cadres/ivy-cadre.jpg" alt="image">
+						</div>
+						<!-- //img -->
+						<div class="project-description text-uppercase ul-li">
+							<h3>Tokyo Love</h3>
+							<ul class="project-catagorry text-capitalize">
+								<li>Street portrait à Tokyo</li>
+							</ul>
+						</div>
+					</div>
+					<div class="page-head-title text-capitalize text-center pb40">
+						<h4 class="descrip">Tokyo Love</h4>
+					</div>
+				</a>
+			</div>
+			<div class="col-xs-6 col-md-3">
+				<a href="sofie-portfolio.php">
+					<div class="work-item mb10">
+						<div class="work-pic">
+							<img src="assets/img/cadres/sofie-cadre.jpg" alt="image">
+						</div>
+						<!-- //img -->
+						<div class="project-description text-uppercase ul-li">
+							<h3>Bodypainting Love</h3>
+							<ul class="project-catagorry text-capitalize">
+								<li>Bodypainting Session</li>
+							</ul>
+						</div>
+					</div>
+					<div class="page-head-title text-capitalize text-center pb40">
+						<h4 class="descrip">Bodypaiting Love</h4>
+					</div>
+				</a>
+			</div>
+			<div class="col-xs-6 col-md-3">
 				<a href="jasmine-portfolio.php">
 					<div class="work-item mb10">
 						<div class="work-pic">

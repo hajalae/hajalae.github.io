@@ -20,6 +20,9 @@
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Portrait / Fashion<span class="caret"></span></a>
 								<ul class="dropdown-menu">
+									<li><a href="salome-portfolio.php">Chic Ballade</a></li>
+									<li><a href="ivy-portfolio.php">Tokyo Love</a></li>
+									<li><a href="sofie-portfolio.php">Bodypainting Love</a></li>
 									<li><a href="jasmine-portfolio.php">Walk with Jasmine</a></li>
 									<li><a href="saya-portfolio.php">Saya la Joie</a></li>
 									<li><a href="shooting-tattoos.php">Colors & Tattoos</a></li>

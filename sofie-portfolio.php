@@ -3,15 +3,15 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>The People Opium - Mister Alae</title>
+	<title>Bodypainting Love - Mister Alae</title>
 
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="The People Opium - Mister Alae" />
-	<meta property="og:url" content="http://www.mister-alae.com/the-people-opium-portfolio.php" />
-	<meta property="og:image" content="http://mister-alae.com/assets/img/book/the-people-opium/The-People-Opium-1.jpg" />
-	<meta property="og:description" content="French clothes brand shooting" />
+	<meta property="og:title" content="Bodypainting Love - Mister Alae" />
+	<meta property="og:url" content="http://www.mister-alae.com/sofie-portfolio.php" />
+	<meta property="og:image" content="http://mister-alae.com/assets/img/book/bodypainting-love/shooting-sofie-10.jpg" />
+	<meta property="og:description" content="Bodypainting Session" />
 
-	<meta name="keywords" content="Mister Alae, Photography, Fashion Photography, The People Opium">
+	<meta name="keywords" content="Mister Alae, Photography, Fashion Photography, photography, bodypainting">
 
 	<meta name="author" content="Alaeddine Hajjem">
 
@@ -36,11 +36,14 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 
 	<link rel="icon" type="image/png" href="assets/img/favicon.png" />
-<!-- Global site tag (gtag.js) - Google Analytics -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148590438-1"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
 		gtag('js', new Date());
 
 		gtag('config', 'UA-148590438-1');
@@ -61,15 +64,18 @@
 			<ol class="breadcrumb">
 				<li><a href="index.php">Home</a></li>
 				<li><a href="fashion-index.php">Fashion</a></li>
-				<li class="active"><a href="the-people-opium-portfolio.php">The People Opium</a></li>
+				<li class="active"><a href="sofie-portfolio.php">Bodypainting Love</a></li>
 			</ol>
 		</div>
 		<div class="container">
 			<div class="page-head-title text-capitalize text-center pb40">
-				<h1>The People Opium</h1>
-				<span class="descrip">Fashion Brand Shooting</span>
-				<br/>
-				<span class="descrip">Mai 2019</span>
+				<h1>Bodypainting love</h1>
+				<span class="descrip">Bodypainting session</span>
+				<br />
+				<br />
+				<span class="descrip">Modèle : Sofie <a href='https://www.instagram.com/sofie.dmg/?hl=fr' target='_blank'>(@sofie.dmg)</a></span>
+				<br />
+				<span class="descrip">Décembre 2019</span>
 			</div>
 			<div w3-include-html="content.php"></div>
 			<div class="row">
@@ -79,35 +85,33 @@
 
 						<div class="portfolio-tab-text-pic row">
 							<div id="posts">
-								<div id="1" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-1.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-1.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
 
 								<div id="2" class="item item-grid web">
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-2.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-2.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-2.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-2.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+								<div id="1" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-1.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-1.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -117,35 +121,17 @@
 								</div>
 								<!-- /item -->
 
-								<div id="3" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-3.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-3.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
+
 
 								<div id="4" class="item item-grid web">
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-4.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-4.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-4.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-4.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -159,12 +145,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-5.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-5.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-5.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-5.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -178,12 +163,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-6.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-6.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-6.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-6.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -197,12 +181,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-7.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-7.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-7.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-7.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -211,37 +194,16 @@
 									</div>
 								</div>
 								<!-- /item -->
-
-								<div id="8" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-8.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-8.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
 
 								<div id="9" class="item item-grid web">
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-9.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-9.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-9.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-9.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -255,12 +217,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-10.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-10.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-10.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-10.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -274,12 +235,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-11.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-11.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-11.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-11.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -293,12 +253,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-12.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-12.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-12.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-12.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -312,12 +271,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-13.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-13.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-13.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-13.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -331,12 +289,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-14.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-14.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-14.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-14.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -350,12 +307,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-15.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-15.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-15.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-15.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -369,12 +325,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-16.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-16.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-16.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-16.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -384,16 +339,16 @@
 								</div>
 								<!-- /item -->
 
-								<div id="17" class="item item-grid web">
+
+								<div id="8" class="item item-grid web">
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-17.jpg" alt="image">
+												<img src="assets/img/book/bodypainting-love/shooting-sofie-8.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-17.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/bodypainting-love/shooting-sofie-8.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -402,47 +357,6 @@
 									</div>
 								</div>
 								<!-- /item -->
-
-								<div id="18" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-18.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-18.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="19" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-19.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-19.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-
-
 
 							</div>
 							<!--//posts-->

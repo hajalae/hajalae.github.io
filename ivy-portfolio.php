@@ -3,15 +3,15 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>The People Opium - Mister Alae</title>
+	<title>Tokyo Love - Mister Alae</title>
 
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="The People Opium - Mister Alae" />
-	<meta property="og:url" content="http://www.mister-alae.com/the-people-opium-portfolio.php" />
-	<meta property="og:image" content="http://mister-alae.com/assets/img/book/the-people-opium/The-People-Opium-1.jpg" />
+	<meta property="og:title" content="Tokyo Love - Mister Alae" />
+	<meta property="og:url" content="http://www.mister-alae.com/ivy-portfolio.php" />
+	<meta property="og:image" content="http://mister-alae.com/assets/img/book/tokyo-love/shooting-ivy-15.jpg" />
 	<meta property="og:description" content="French clothes brand shooting" />
 
-	<meta name="keywords" content="Mister Alae, Photography, Fashion Photography, The People Opium">
+	<meta name="keywords" content="Mister Alae, Photography, Fashion Photography, Tokyo, Portrait photography, Japan">
 
 	<meta name="author" content="Alaeddine Hajjem">
 
@@ -36,11 +36,14 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 
 	<link rel="icon" type="image/png" href="assets/img/favicon.png" />
-<!-- Global site tag (gtag.js) - Google Analytics -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148590438-1"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
 		gtag('js', new Date());
 
 		gtag('config', 'UA-148590438-1');
@@ -61,15 +64,18 @@
 			<ol class="breadcrumb">
 				<li><a href="index.php">Home</a></li>
 				<li><a href="fashion-index.php">Fashion</a></li>
-				<li class="active"><a href="the-people-opium-portfolio.php">The People Opium</a></li>
+				<li class="active"><a href="ivy-portfolio.php">Tokyo Love</a></li>
 			</ol>
 		</div>
 		<div class="container">
 			<div class="page-head-title text-capitalize text-center pb40">
-				<h1>The People Opium</h1>
-				<span class="descrip">Fashion Brand Shooting</span>
-				<br/>
-				<span class="descrip">Mai 2019</span>
+				<h1>Tokyo Love</h1>
+				<span class="descrip">Street portraits in Tokyo</span>
+				<br />
+				<br />
+				<span class="descrip">Modèle : Ivy Chu <a href="https://www.instagram.com/ivychuuuuu/" target="_blank">(@ivychuuuuu)</a></span>
+				<br />
+				<span class="descrip">Novembre 2019</span>
 			</div>
 			<div w3-include-html="content.php"></div>
 			<div class="row">
@@ -83,31 +89,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-1.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-1.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-1.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="2" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-2.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-2.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-1.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -121,12 +107,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-3.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-3.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-3.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-3.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -136,73 +121,15 @@
 								</div>
 								<!-- /item -->
 
-								<div id="4" class="item item-grid web">
+								<div id="2" class="item item-grid web">
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-4.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-2.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-4.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="5" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-5.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-5.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="6" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-6.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-6.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="7" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-7.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-7.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-2.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -216,12 +143,65 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-8.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-8.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-8.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-8.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="6" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-6.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/tokyo-love/shooting-ivy-6.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="7" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-7.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/tokyo-love/shooting-ivy-7.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="4" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-4.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/tokyo-love/shooting-ivy-4.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -236,12 +216,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-9.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-9.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-9.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-9.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -255,12 +234,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-10.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-10.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-10.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-10.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -274,12 +252,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-11.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-11.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-11.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-11.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -293,12 +270,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-12.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-12.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-12.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-12.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -312,12 +288,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-13.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-13.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-13.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-13.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -331,12 +306,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-14.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-14.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-14.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-14.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -350,12 +324,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-15.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-15.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-15.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-15.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -369,12 +342,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-16.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-16.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-16.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-16.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -388,12 +360,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-17.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-17.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-17.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-17.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -407,12 +378,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-18.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-18.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-18.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-18.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -426,12 +396,83 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-19.jpg" alt="image">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-19.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-19.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/tokyo-love/shooting-ivy-19.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="21" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-21.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/tokyo-love/shooting-ivy-21.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="22" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-22.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/tokyo-love/shooting-ivy-22.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="23" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-23.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/tokyo-love/shooting-ivy-23.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="24" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/tokyo-love/shooting-ivy-24.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/tokyo-love/shooting-ivy-24.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->

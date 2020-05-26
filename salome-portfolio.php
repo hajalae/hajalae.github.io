@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="fr">
 
 <head>
 	<meta charset="utf-8">
-	<title>The People Opium - Mister Alae</title>
+	<title>Chic Ballade - Mister Alae</title>
 
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="The People Opium - Mister Alae" />
-	<meta property="og:url" content="http://www.mister-alae.com/the-people-opium-portfolio.php" />
-	<meta property="og:image" content="http://mister-alae.com/assets/img/book/the-people-opium/The-People-Opium-1.jpg" />
-	<meta property="og:description" content="French clothes brand shooting" />
+	<meta property="og:title" content="Chic Ballade - Mister Alae" />
+	<meta property="og:url" content="http://www.mister-alae.com/salome-portfolio.php" />
+	<meta property="og:image" content="http://www.mister-alae.com/assets/img/book/chic-ballade/shooting-salome.jpg" />
+	<meta property="og:description" content="Une après midi dans les ruelles de Paris" />
 
-	<meta name="keywords" content="Mister Alae, Photography, Fashion Photography, The People Opium">
+	<meta name="keywords" content="Winter photography, Fashion, Chic photography, Photography, Paris, France, French Photographer, Portrait">
 
 	<meta name="author" content="Alaeddine Hajjem">
 
@@ -36,11 +36,14 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 
 	<link rel="icon" type="image/png" href="assets/img/favicon.png" />
-<!-- Global site tag (gtag.js) - Google Analytics -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148590438-1"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
 		gtag('js', new Date());
 
 		gtag('config', 'UA-148590438-1');
@@ -60,54 +63,37 @@
 		<div class="container">
 			<ol class="breadcrumb">
 				<li><a href="index.php">Home</a></li>
-				<li><a href="fashion-index.php">Fashion</a></li>
-				<li class="active"><a href="the-people-opium-portfolio.php">The People Opium</a></li>
+				<li><a href="fashion-index.php">Portrait / Fashion</a></li>
+				<li class="active"><a href="salome-portfolio.php">Chic Ballade</a></li>
 			</ol>
 		</div>
 		<div class="container">
 			<div class="page-head-title text-capitalize text-center pb40">
-				<h1>The People Opium</h1>
-				<span class="descrip">Fashion Brand Shooting</span>
+				<h1>Chic Ballade</h1>
+				<span class="descrip">Une après midi dans les ruelles de Paris</span>
+				<br />
 				<br/>
-				<span class="descrip">Mai 2019</span>
+				<span class="descrip">Modèle : Salomé Céno <a href="https://www.instagram.com/salome.cenot/" target="_blank">(@salome.cenot)</a></span>
+				<br />
+				<span class="descrip">Février 2020</span>
 			</div>
-			<div w3-include-html="content.php"></div>
-			<div class="row">
+			<div class=" row">
 				<div class="portfolio-content">
 					<div class="portfolio-tab pb55">
 						<!-- /tab-button -->
 
 						<div class="portfolio-tab-text-pic row">
 							<div id="posts">
+
 								<div id="1" class="item item-grid web">
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-1.jpg" alt="image">
+												<img src="assets/img/book/chic-ballade/shooting-salome-1.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-1.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="2" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-2.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-2.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/chic-ballade/shooting-salome-1.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -121,12 +107,29 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-3.jpg" alt="image">
+												<img src="assets/img/book/chic-ballade/shooting-salome-3.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-3.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/chic-ballade/shooting-salome-3.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="2" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/chic-ballade/shooting-salome-2.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/chic-ballade/shooting-salome-2.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -140,12 +143,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-4.jpg" alt="image">
+												<img src="assets/img/book/chic-ballade/shooting-salome-4.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-4.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/chic-ballade/shooting-salome-4.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -159,12 +161,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-5.jpg" alt="image">
+												<img src="assets/img/book/chic-ballade/shooting-salome-5.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-5.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/chic-ballade/shooting-salome-5.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -178,12 +179,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-6.jpg" alt="image">
+												<img src="assets/img/book/chic-ballade/shooting-salome-6.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-6.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/chic-ballade/shooting-salome-6.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -197,12 +197,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-7.jpg" alt="image">
+												<img src="assets/img/book/chic-ballade/shooting-salome-7.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-7.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/chic-ballade/shooting-salome-7.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -216,51 +215,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-8.jpg" alt="image">
+												<img src="assets/img/book/chic-ballade/shooting-salome-8.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-8.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-
-								<div id="9" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-9.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-9.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="10" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-10.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-10.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/chic-ballade/shooting-salome-8.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -274,12 +233,29 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-11.jpg" alt="image">
+												<img src="assets/img/book/chic-ballade/shooting-salome-11.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-11.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/chic-ballade/shooting-salome-11.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="9" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/chic-ballade/shooting-salome-9.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/chic-ballade/shooting-salome-9.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -293,12 +269,11 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-12.jpg" alt="image">
+												<img src="assets/img/book/chic-ballade/shooting-salome-12.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-12.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/chic-ballade/shooting-salome-12.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -308,92 +283,16 @@
 								</div>
 								<!-- /item -->
 
-								<div id="13" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-13.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-13.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
 
-								<div id="14" class="item item-grid web">
+								<div id="10" class="item item-grid web">
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-14.jpg" alt="image">
+												<img src="assets/img/book/chic-ballade/shooting-salome-10.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-14.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="15" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-15.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-15.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="16" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-16.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-16.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
-												</div>
-												<!-- //light-box-img -->
-												<!-- //project-description -->
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- /item -->
-
-								<div id="17" class="item item-grid web">
-									<div class="item-wrap">
-										<div class="work-item">
-											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-17.jpg" alt="image">
-											</div>
-											<div class="hover-content">
-												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-17.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/chic-ballade/shooting-salome-10.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -407,12 +306,84 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-18.jpg" alt="image">
+												<img src="assets/img/book/chic-ballade/shooting-salome-18.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-18.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/chic-ballade/shooting-salome-18.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+
+								<div id="14" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/chic-ballade/shooting-salome-14.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/chic-ballade/shooting-salome-14.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="15" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/chic-ballade/shooting-salome-15.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/chic-ballade/shooting-salome-15.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="17" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/chic-ballade/shooting-salome-17.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/chic-ballade/shooting-salome-17.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="20" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/chic-ballade/shooting-salome-20.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/chic-ballade/shooting-salome-20.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -426,12 +397,83 @@
 									<div class="item-wrap">
 										<div class="work-item">
 											<div class="work-pic">
-												<img src="assets/img/book/the-people-opium/The-People-Opium-19.jpg" alt="image">
+												<img src="assets/img/book/chic-ballade/shooting-salome-19.jpg" alt="image">
 											</div>
 											<div class="hover-content">
 												<div class="hover-text text-center">
-													<a href="assets/img/book/the-people-opium/The-People-Opium-19.jpg"
-														data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+													<a href="assets/img/book/chic-ballade/shooting-salome-19.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="16" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/chic-ballade/shooting-salome-16.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/chic-ballade/shooting-salome-16.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="25" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/chic-ballade/shooting-salome-25.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/chic-ballade/shooting-salome-25.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="22" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/chic-ballade/shooting-salome-22.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/chic-ballade/shooting-salome-22.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="24" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/chic-ballade/shooting-salome-24.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/chic-ballade/shooting-salome-24.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
 												</div>
 												<!-- //light-box-img -->
 												<!-- //project-description -->
@@ -443,6 +485,41 @@
 
 
 
+								<div id="26" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/chic-ballade/shooting-salome-26.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/chic-ballade/shooting-salome-26.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
+
+								<div id="28" class="item item-grid web">
+									<div class="item-wrap">
+										<div class="work-item">
+											<div class="work-pic">
+												<img src="assets/img/book/chic-ballade/shooting-salome-28.jpg" alt="image">
+											</div>
+											<div class="hover-content">
+												<div class="hover-text text-center">
+													<a href="assets/img/book/chic-ballade/shooting-salome-28.jpg" data-lightbox="roadtrip"><span class="ti-fullscreen"></span></a>
+												</div>
+												<!-- //light-box-img -->
+												<!-- //project-description -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /item -->
 
 							</div>
 							<!--//posts-->
@@ -454,7 +531,7 @@
 
 					<div class="poppin-more text-uppercase text-center">
 						<div class="more-btn">
-							<a href="fashion-index.php">MORE FASHION WORKS</a>
+							<a href="fashion-index.php">MORE PORTRAIT WORKS</a>
 						</div>
 					</div>
 					<!-- //.more -->
@@ -468,6 +545,7 @@
 		============================================= -->
 
 	<?php include("footer.php") ?>
+
 
 
 	<!--  Js Library -->
@@ -492,9 +570,6 @@
 
 	<!-- Include script.js -->
 	<script src="assets/js/script.js"></script>
-
-
-
 
 
 </body>
