@@ -72,6 +72,110 @@
 				<p>Voici les différentes séries en cours de création que je souhaite réaliser avec des modèles volontaires (hommes et femmes). Nous pourrons après discussion déterminer le type de projet que nous réaliserons ensemble, sachant qu'il est possible de tous les faire en un seul et même shooting.</p>
 			</div>
 			<div w3-include-html="content.php"></div>
+
+			<h2 class='text-center'>Double Exposure</h2>
+			<br />
+			<div class="row">
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/682999099723499889/"></a>
+				</div>
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/44332377571440114/"></a>
+				</div>
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/29484572549223634/"></a>
+				</div>
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/40673202873193245/"></a>
+				</div>
+			</div>
+			<div class="row">
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/640566746991060268/"></a>
+				</div>
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/109986415873378156/"></a>
+				</div>
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/458170962093854537/"></a>
+				</div>
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/59250551336634161/"></a>
+				</div>
+			</div>
+
+			<br />
+			<br />
+			
+			<h2 class='text-center'>Natural portraits</h2>
+			<br />
+			<div class="row">
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/3588874691657917/"></a>
+				</div>
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/32440059805307552/"></a>
+				</div>
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/25966135339213546/"></a>
+				</div>
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/545287467387797802/"></a>
+				</div>
+			</div>
+			<div class="row">
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/221028294199293226/"></a>
+				</div>
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/2392606041175266/"></a>
+				</div>
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/4011087156372696/"></a>
+				</div>
+				<div class='col-sm-6 col-md-3'>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/1477812362277193/"></a>
+				</div>
+			</div>
+
+			<br />
+			<br />
+			<h2 class='text-center'>Lowkey intimate</h2>
+			<p class="mt10">Essentiellement pour les personnes (hommes et femmes) à l'aise avec ce type de projet, souhaitant découvrir ce monde. Il n'est pas obligé de faire de la nudité complète, nous pouvons travailler pour trouver un bon compromis afin d'être à l'aise tous ensemble</p>
+			<br />
+			<div class="row">
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="assets/img/next-projects/lowkey-intimate-1.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="assets/img/next-projects/lowkey-intimate-2.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="assets/img/next-projects/lowkey-intimate-3.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="assets/img/next-projects/lowkey-intimate-4.jpg" class="img-fluid" />
+				</div>
+			</div>
+			<div class='row'>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="assets/img/next-projects/lowkey-intimate-5.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="assets/img/next-projects/lowkey-intimate-6.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="assets/img/next-projects/lowkey-intimate-7.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="assets/img/next-projects/lowkey-intimate-8.jpg" class="img-fluid" />
+				</div>
+			</div>
+
+			<div class="page-head-title text-center pb40">
+				<h1>Projets archivés</h1>
+				<p>Les derniers projets réalisés en cours de traitement postprod</p>
+			</div>
 			<h2 class='text-center'>Colorfull portraits</h2>
 			<br />
 			<div class="row">
@@ -136,6 +240,7 @@
 
 			<br />
 			<br />
+
 			<h2 class='text-center'>Lowkey portraits</h2>
 			<br />
 			<div class="row">
@@ -157,47 +262,13 @@
 					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/663155113870143849/"></a>
 				</div>
 				<div class='col-sm-6 col-md-3'>
-					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/806707351992459695/"></a>
+					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/660129257870545874/"></a>
 				</div>
 				<div class='col-sm-6 col-md-3'>
 					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/501588477248575559/"></a>
 				</div>
 				<div class='col-sm-6 col-md-3'>
 					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/529102656205837098/"></a>
-				</div>
-			</div>
-
-			<br />
-			<br />
-			<h2 class='text-center'>Lowkey intimate</h2>
-			<p class="mt10">Essentiellement pour les personnes (hommes et femmes) à l'aise avec ce type de projet, souhaitant découvrir ce monde. Il n'est pas obligé de faire de la nudité complète, nous pouvons travailler pour trouver un bon compromis afin d'être à l'aise tous ensemble</p>
-			<br />
-			<div class="row">
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="assets/img/next-projects/lowkey-intimate-1.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="assets/img/next-projects/lowkey-intimate-2.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="assets/img/next-projects/lowkey-intimate-3.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="assets/img/next-projects/lowkey-intimate-4.jpg" class="img-fluid" />
-				</div>
-			</div>
-			<div class='row'>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="assets/img/next-projects/lowkey-intimate-5.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="assets/img/next-projects/lowkey-intimate-6.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="assets/img/next-projects/lowkey-intimate-7.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="assets/img/next-projects/lowkey-intimate-8.jpg" class="img-fluid" />
 				</div>
 			</div>
 
