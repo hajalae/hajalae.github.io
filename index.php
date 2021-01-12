@@ -127,10 +127,66 @@
 
 						<div class="item active">
 							<div class="container text-center">
-								<a href="salome-portfolio.php">
-									<img src="assets/img/book/chic-ballade/shooting-salome-15.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+								<a href="/portraits-and-fashion/low-key-portraits">
+									<div class=" hidden-sm hidden-xs">
+										<img src="assets/img/book/low-key-portraits/og-image.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="hidden-lg hidden-md visible-sm visible-xs">
+										<img src="assets/img/book/low-key-portraits/low-key-portraits-5.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
 									<div class="carousel-caption mb10">
-										<h3 style="color:white">Chic Ballade</h3>
+										<h3 style="color:white">Low Key Portraits</h3>
+										<p>Portraits sombres laissant transparaitre la lumière</p>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="container text-center">
+								<a href="/portraits-and-fashion/lighting-portraits">
+									<div class=" hidden-sm hidden-xs">
+										<img src="assets/img/book/lighting-portraits/og-image.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="hidden-lg hidden-md visible-sm visible-xs">
+										<img src="assets/img/book/lighting-portraits/lighting-portraits-14.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="carousel-caption mb10">
+										<h3 style="color:white">Lighting Portraits</h3>
+										<p>Portraits aux lumières colorées</p>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="container text-center">
+								<a href="/portraits-and-fashion/colors-portraits">
+									<div class=" hidden-sm hidden-xs">
+										<img src="assets/img/book/colors-portraits/og-image.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="hidden-lg hidden-md visible-sm visible-xs">
+										<img src="assets/img/book/colors-portraits/colors-portraits-12.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="carousel-caption mb10">
+										<h3 style="color:white">Colors Portraits</h3>
+										<p>Portraits aux fonds colorés</p>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="container text-center">
+								<a href="/portraits-and-fashion/chic-balade">
+									<div class=" hidden-sm hidden-xs">
+										<img src="assets/img/book/chic-ballade/shooting-salome.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="hidden-lg hidden-md visible-sm visible-xs">
+										<img src="assets/img/book/chic-ballade/shooting-salome-15.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="carousel-caption mb10">
+										<h3 style="color:white">Chic Balade</h3>
 										<p>Une Après Midi Dans Les Ruelles De Paris</p>
 									</div>
 								</a>
@@ -139,8 +195,14 @@
 
 						<div class="item">
 							<div class="container text-center">
-								<a href="ivy-portfolio.php">
-									<img src="assets/img/book/tokyo-love/shooting-ivy-3.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+								<a href="/portraits-and-fashion/tokyo-love">
+									<div class=" hidden-sm hidden-xs">
+										<img src="assets/img/book/tokyo-love/shooting-ivy-15.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="hidden-lg hidden-md visible-sm visible-xs">
+										<img src="assets/img/book/tokyo-love/shooting-ivy-3.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+
 									<div class="carousel-caption mb10">
 										<h3 style="color:white">Tokyo Love</h3>
 										<p>Street Portraits In Tokyo</p>
@@ -151,8 +213,14 @@
 
 						<div class="item">
 							<div class="container text-center">
-								<a href="sofie-portfolio.php">
-									<img src="assets/img/book/bodypainting-love/shooting-sofie-6.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+								<a href="/portraits-and-fashion/bodypainting-love">
+									<div class=" hidden-sm hidden-xs">
+										<img src="assets/img/book/bodypainting-love/shooting-sofie-10.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="hidden-lg hidden-md visible-sm visible-xs">
+										<img src="assets/img/book/bodypainting-love/shooting-sofie-6.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+
 									<div class="carousel-caption mb10">
 										<h3 style="color:white">Bodypainting Love</h3>
 										<p>Bodypainting Session</p>
@@ -163,8 +231,13 @@
 
 						<div class="item">
 							<div class="container text-center">
-								<a href="jasmine-portfolio.php">
-									<img src="assets/img/book/jasmine/Jasmine-19.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+								<a href="/portraits-and-fashion/walk-with-jasmine">
+									<div class=" hidden-sm hidden-xs">
+										<img src="assets/img/book/jasmine/Jasmine-18.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="hidden-lg hidden-md visible-sm visible-xs">
+										<img src="assets/img/book/jasmine/Jasmine-5.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
 									<div class="carousel-caption mb10">
 										<h3 style="color:white">Walk with Jasmine</h3>
 										<p>Une Promenade D'automne Au Japon</p>
@@ -175,8 +248,14 @@
 
 						<div class="item">
 							<div class="container text-center">
-								<a href="saya-portfolio.php">
-									<img src="assets/img/book/saya/Saya-10.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+								<a href="/portraits-and-fashion/saya-la-joie">
+									<div class=" hidden-sm hidden-xs">
+										<img src="assets/img/book/saya/Saya-101.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="hidden-lg hidden-md visible-sm visible-xs">
+										<img src="assets/img/book/saya/Saya-10.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+
 									<div class="carousel-caption mb10">
 										<h3 style="color:white">Saya la Joie</h3>
 										<p>La Joie Des Parcs Nippons</p>
@@ -187,8 +266,13 @@
 
 						<div class="item">
 							<div class="container text-center">
-								<a href="shooting-tattoos.php">
-									<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-24.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+								<a href="/portraits-and-fashion/colors-and-tattoos">
+									<div class=" hidden-sm hidden-xs">
+										<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-66.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="hidden-lg hidden-md visible-sm visible-xs">
+										<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-24.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
 									<div class="carousel-caption mb10">
 										<h3 style="color:white">Colors & Tattoos</h3>
 										<p>Shooting D'une Artiste Tatoueuse Japonaise</p>
@@ -199,8 +283,14 @@
 
 						<div class="item">
 							<div class="container text-center">
-								<a href="yellow-leaves.php">
-									<img src="assets/img/book/yellow-leaves/Yellow-Leaves-9.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+								<a href="/portraits-and-fashion/yellow-leaves">
+									<div class=" hidden-sm hidden-xs">
+										<img src="assets/img/book/yellow-leaves/Yellow-Leaves-4.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="hidden-lg hidden-md visible-sm visible-xs">
+										<img src="assets/img/book/yellow-leaves/Yellow-Leaves-9.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+
 									<div class="carousel-caption mb10">
 										<h3 style="color:white">Yellow Leaves</h3>
 										<p>Une Belle Journée D'automne Japonaise</p>
@@ -211,8 +301,14 @@
 
 						<div class="item">
 							<div class="container text-center">
-								<a href="Candle-Night.php">
-									<img src="assets/img/book/candle-night/Candle-Night-5.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+								<a href="/portraits-and-fashion/candle-night">
+									<div class=" hidden-sm hidden-xs">
+										<img src="assets/img/book/candle-night/Candle-Night-9.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="hidden-lg hidden-md visible-sm visible-xs">
+										<img src="assets/img/book/candle-night/Candle-Night-5.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+
 									<div class="carousel-caption mb10">
 										<h3 style="color:white">Candle Night</h3>
 										<p>Une Nuit Tokyoïte Éclairée Par La Lueur Des Bougies</p>
@@ -223,8 +319,14 @@
 
 						<div class="item">
 							<div class="container text-center">
-								<a href="la-villette-portfolio.php">
-									<img src="assets/img/book/shooting-daria/Shooting-Daria-6.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+								<a href="/portraits-and-fashion/la-villette">
+									<div class=" hidden-sm hidden-xs">
+										<img src="assets/img/book/shooting-daria/Shooting-Daria-5.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="hidden-lg hidden-md visible-sm visible-xs">
+										<img src="assets/img/book/shooting-daria/Shooting-Daria-6.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+
 									<div class="carousel-caption mb10">
 										<h3 style="color:white">La Villette</h3>
 										<p>A Summer Afternoon In Paris</p>
@@ -235,8 +337,14 @@
 
 						<div class="item">
 							<div class="container text-center">
-								<a href="the-people-opium-portfolio.php">
-									<img src="assets/img/book/the-people-opium/The-People-Opium-12.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+								<a href="/portraits-and-fashion/the-people-opium">
+									<div class=" hidden-sm hidden-xs">
+										<img src="assets/img/book/the-people-opium/The-People-Opium-9.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+									<div class="hidden-lg hidden-md visible-sm visible-xs">
+										<img src="assets/img/book/the-people-opium/The-People-Opium-12.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
+									</div>
+
 									<div class="carousel-caption mb10">
 										<h3 style="color:white">The People Opium</h3>
 										<p>Fashion Brand Shooting</p>
@@ -269,7 +377,7 @@
 		<h5 class="text-center mb30">Click on a picture to reveal the portfolio</h5>
 		<div class="container mb30">
 			<div class="col-xs-6 col-md-3">
-				<a href="fashion-index.php">
+				<a href="/portraits-and-fashion">
 					<div class="work-item mb10">
 						<div class="work-pic">
 							<img src="assets/img/cadres/fashion-cadre.jpg" alt="image">
@@ -288,7 +396,7 @@
 				</a>
 			</div>
 			<div class="col-xs-6 col-md-3">
-				<a href="street-index.php">
+				<a href="/street-photography">
 					<div class="work-item mb10">
 						<div class="work-pic">
 							<img src="assets/img/cadres/street-cadre.jpg" alt="image">
@@ -307,7 +415,7 @@
 				</a>
 			</div>
 			<div class="col-xs-6 col-md-3">
-				<a href="sport-index.php">
+				<a href="/sport-photography">
 					<div class="work-item mb10">
 						<div class="work-pic">
 							<img src="assets/img/cadres/sport-cadre.jpg" alt="image">
@@ -326,7 +434,7 @@
 				</a>
 			</div>
 			<div class="col-xs-6 col-md-3">
-				<a href="festivals-index.php">
+				<a href="/festivals">
 					<div class="work-item mb10">
 						<div class="work-pic">
 							<img src="assets/img/cadres/festival-cadre.jpg" alt="image">
@@ -347,23 +455,13 @@
 		</div>
 	</section>
 
-	<section>
-		<div class="container" align='center'>
-			<h2><a href='https://www.instagram.com/mister.alae/' target='_blank'>Find me on Instagam</a></h2>
-			<div style="width:90%">
-				<div class='embedsocial-instagram' data-ref="74ba58a87d62fbc140ca6fcb079428c1d2d09eb0"></div>
-			</div>
-		</div>
-	</section>
-
-
 
 
 	<!-- Start of newsletter section
 		============================================= -->
 	<section class="container">
 		<h1 class="text-center mb10">Video</h1>
-		<h4 class="text-center mb30"><a href="videos.php">See all the videos ...</a></h4>
+		<h4 class="text-center mb30"><a href="/videos/">See all the videos ...</a></h4>
 		<div id="myCarousel" class="carousel slide mb30" data-ride="carousel">
 			<!-- Indicators -->
 			<ol class="carousel-indicators">
@@ -379,7 +477,7 @@
 			<div class="carousel-inner">
 
 				<div class="item active">
-					<a href="videos.php#sick">
+					<a href="/videos/#sick">
 						<img src="assets/img/videos/video-1.jpg" alt="Los Angeles" style="width:100%;">
 						<div class="carousel-caption mb10">
 							<h3 style="color:white">Sick</h3>
@@ -389,7 +487,7 @@
 				</div>
 
 				<div class="item">
-					<a href="videos.php#menuires">
+					<a href="/videos/#menuires">
 						<img src="assets/img/videos/video-2.jpg" alt="Chicago" style="width:100%;">
 						<div class="carousel-caption mb10">
 							<h3 style="color:white">Les Menuires</h3>
@@ -399,7 +497,7 @@
 				</div>
 
 				<div class="item">
-					<a href="videos.php#fanny-inge">
+					<a href="/videos/#fanny-inge">
 						<img src="assets/img/videos/video-3.jpg" alt="New York" style="width:100%;">
 						<div class="carousel-caption mb10">
 							<h3 style="color:white">Fanny, Ingénieure</h3>
@@ -409,7 +507,7 @@
 				</div>
 
 				<div class="item">
-					<a href="videos.php#jesuisqui">
+					<a href="/videos/#jesuisqui">
 						<img src="assets/img/videos/video-4.jpg" alt="Los Angeles" style="width:100%;">
 						<div class="carousel-caption mb10">
 							<h3 style="color:white">Je suis Qui</h3>
@@ -419,7 +517,7 @@
 				</div>
 
 				<div class="item">
-					<a href="videos.php#nuitdelessec">
+					<a href="/videos/#nuitdelessec">
 						<img src="assets/img/videos/video-5.jpg" alt="Chicago" style="width:100%;">
 						<div class="carousel-caption mb10">
 							<h3 style="color:white">Nuit de l'ESSEC</h3>
@@ -429,7 +527,7 @@
 				</div>
 
 				<div class="item">
-					<a href="videos.php#california">
+					<a href="/videos/#california">
 						<img src="assets/img/videos/video-6.jpg" alt="New York" style="width:100%;">
 						<div class="carousel-caption mb10">
 							<h3 style="color:white">California</h3>

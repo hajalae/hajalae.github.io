@@ -1,10 +1,10 @@
-	<?php include("adsense.php") ?>
+	<?php include("/adsense.php") ?>
 	
 	<!-- Start of footer section
 		============================================= -->
         <footer>
 		<div class="footer-area footer-2">
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row">
 					<div class="copy-right-area text-center">
 						<div class="page-head-social-item ul-li">

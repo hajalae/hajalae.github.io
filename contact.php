@@ -35,33 +35,32 @@
 <body class="about single-page">
 
 	<?php include("header.php") ?>
-	
 
-		<section id="about-me" class="pt50">
 
-			<div class="container">
-				<ol class="breadcrumb">
-					<li><a href="index.php">Home</a></li>
-					<li class="active"><a href="contact.php">Contact</a></li>
-				</ol>
-				<div class="row">
-					<div class="col-sm-2">
-						<h2>About Me</h2>
-					</div>
-					<div class="col-sm-5">
-						<img src="assets/img/about/about-me.jpg" alt="about me" />
-					</div>
-					<div class="col-sm-5 text-justify">
-						<p>Jeune ingénieur en informatique de 25 ans, passionné de football et danseur de hip-hop, je fais de la photographie et de la vidéo depuis 2012. </p>
-						<p>J'ai eu la chance d'être membre, puis secrétaire général de l'association Noir-sur-Blanc, association regroupant les meilleurs photographes de l'ESSEC Business School.</p>
-						<p>Au délà des différents projets personnels que je mène, j'ai pu travailler avec plusieurs professionnels du monde du textile, du sport ou même de l'événementiel. Chacun de ces événements uniques ont pu être immortalisés par le moyen de la photographie et de la vidéo</p>
-						<p>La photographie n'est rien de plus qu'un assistant qui vous permettra de capturer les innombrables souvenirs que vos yeux créent.</p>
-					</div>
+	<section id="about-me" class="pt50">
+
+		<div class="container">
+			<ol class="breadcrumb">
+				<li><a href="index.php">Home</a></li>
+				<li class="active"><a href="contact.php">Contact</a></li>
+			</ol>
+			<div class="row">
+				<div class="col-sm-2">
+					<h2>About Me</h2>
+				</div>
+				<div class="col-sm-5">
+					<img src="assets/img/about/about-me.jpg" alt="about me" />
+				</div>
+				<div class="col-sm-5 text-justify">
+					<p>Créer, sublimer et faire émerger le beau sont les raisons pour lesquelles j'aime la photographie. A l'instar d'un écrivain devant sa feuille blanche, il est excitant de partir de rien pour arriver à une oeuvre aboutie.</p>
+					<p>Photographe depuis près de 10 ans, j'ai eu la chance de perfectionner mon art à l'aide de différentes rencontres et des différents projets que j'ai pu mener aux quatre coins du monde.</p>
+					<p>Jamais rien ne remplacera vos yeux. La photographie n'est rien de plus qu'un assistant qui vous permettra de capturer les innombrables souvenirs que vous vous faites.</p>
 				</div>
 			</div>
-		</section>
+		</div>
+	</section>
 
-		<hr>
+	<hr>
 
 	<!-- Start of contact us section
 		============================================= -->
@@ -70,40 +69,13 @@
 			<div class="row ">
 				<div class="contact-us-contact">
 
-					<div class="contact-area-form ">
+					<div class="contact-area-form text-center">
 						<div class="row">
-							<div class="col-sm-3">
-									<h2>Formulaire de contact</h2>
-								<!-- //title -->
-							</div>
-							<!-- //col-sm-3 -->
-
-							<div class="col-sm-9">
+							<div class="col">
 								<div class="contact-adress-form">
-									<p>Une question ? Une demande de prestation ? N'hésitez pas à m'envoyer un message,
-										je vous répondrai dans les plus brefs délais</p>
-									<form id="contact_form" action="send-email.php" method="POST" enctype="multipart/form-data">
-										<div class="contact-info-item">
-											<input class="name" name="name" type="text" placeholder="Votre nom...">
-											<span><i class="fa fa-user" aria-hidden="true"></i></span>
-										</div>
-										<div class="contact-info-item">
-											<input class="email" name="email" type="email" placeholder="Votre email...">
-											<span><i class="fa fa-envelope" aria-hidden="true"></i></span>
-										</div>
-										<div class="contact-info-item">
-											<input class="sub" name="objet" type="text"
-												placeholder="Objet">
-											<span class="phone"><i class="fa fa-phone" aria-hidden="true"></i></span>
-										</div>
-										<div class="contact-info-msg">
-											<textarea id="message" name="message" placeholder="Votre message" rows="7"
-												cols="30"></textarea>
-											<span><i class="fa fa-pencil" aria-hidden="true"></i></span>
-										</div>
-										<button class="text-uppercase" type="submit" value="send now">Envoyer<i
-												class="fa fa-angle-right" aria-hidden="true"></i></button>
-									</form>
+									<h4>Une question ? Une demande de prestation ? N'hésitez pas à m'envoyer un message à
+										<br /><a href="mailto:contact@mister-alae.com">contact@mister-alae.com</a>
+										<br />je vous répondrai dans les plus brefs délais.</h4>
 								</div>
 							</div>
 							<!-- //.col-sm-9 -->
@@ -118,7 +90,7 @@
 	<!-- End of contact us section
 		============================================= -->
 
-		<?php include("footer.php") ?>
+	<?php include("footer.php") ?>
 
 
 
@@ -161,84 +133,128 @@
 			var options = {
 				center: [23.7806286, 90.2793692],
 				zoom: 14,
-				styles: [
-					{ elementType: 'geometry', stylers: [{ color: '#eeeeee' }] },
-					{ elementType: 'labels.text.stroke', stylers: [{ color: '#eeeeee' }] },
-					{ elementType: 'labels.text.fill', stylers: [{ color: '#eeeeee' }] },
+				styles: [{
+						elementType: 'geometry',
+						stylers: [{
+							color: '#eeeeee'
+						}]
+					},
+					{
+						elementType: 'labels.text.stroke',
+						stylers: [{
+							color: '#eeeeee'
+						}]
+					},
+					{
+						elementType: 'labels.text.fill',
+						stylers: [{
+							color: '#eeeeee'
+						}]
+					},
 					{
 						featureType: 'administrative.locality',
 						elementType: 'labels.text.fill',
-						stylers: [{ color: '#cdc9c2' }]
+						stylers: [{
+							color: '#cdc9c2'
+						}]
 					},
 					{
 						featureType: 'poi',
 						elementType: 'labels.text.fill',
-						stylers: [{ color: '#cdc9c2' }]
+						stylers: [{
+							color: '#cdc9c2'
+						}]
 					},
 					{
 						featureType: 'poi.park',
 						elementType: 'geometry',
-						stylers: [{ color: '#cdc9c2' }]
+						stylers: [{
+							color: '#cdc9c2'
+						}]
 					},
 					{
 						featureType: 'poi.park',
 						elementType: 'labels.text.fill',
-						stylers: [{ color: '#c6c9c3' }]
+						stylers: [{
+							color: '#c6c9c3'
+						}]
 					},
 					{
 						featureType: 'road',
 						elementType: 'geometry',
-						stylers: [{ color: '#c6c9c3' }]
+						stylers: [{
+							color: '#c6c9c3'
+						}]
 					},
 					{
 						featureType: 'road',
 						elementType: 'geometry.stroke',
-						stylers: [{ color: '#cdc9c2' }]
+						stylers: [{
+							color: '#cdc9c2'
+						}]
 					},
 					{
 						featureType: 'road',
 						elementType: 'labels.text.fill',
-						stylers: [{ color: '#cdc9c2' }]
+						stylers: [{
+							color: '#cdc9c2'
+						}]
 					},
 					{
 						featureType: 'road.highway',
 						elementType: 'geometry',
-						stylers: [{ color: '#cdc9c2' }]
+						stylers: [{
+							color: '#cdc9c2'
+						}]
 					},
 					{
 						featureType: 'road.highway',
 						elementType: 'geometry.stroke',
-						stylers: [{ color: '#cdc9c2' }]
+						stylers: [{
+							color: '#cdc9c2'
+						}]
 					},
 					{
 						featureType: 'road.highway',
 						elementType: 'labels.text.fill',
-						stylers: [{ color: '#cdc9c2' }]
+						stylers: [{
+							color: '#cdc9c2'
+						}]
 					},
 					{
 						featureType: 'transit',
 						elementType: 'geometry',
-						stylers: [{ color: '#e4e4e3' }]
+						stylers: [{
+							color: '#e4e4e3'
+						}]
 					},
 					{
 						featureType: 'transit.station',
 						elementType: 'labels.text.fill',
-						stylers: [{ color: '#e4e4e3' }]
+						stylers: [{
+							color: '#e4e4e3'
+						}]
 					},
 					{
 						featureType: 'water',
 						elementType: 'geometry',
-						stylers: [{ color: '#c3c7cc' }]
+						stylers: [{
+							color: '#c3c7cc'
+						}]
 					},
 					{
 						featureType: 'water',
 						elementType: 'labels.text.fill',
-						stylers: [{ color: '#c3c7cc' }]
+						stylers: [{
+							color: '#c3c7cc'
+						}]
 					},
 					{
 						featureType: 'water',
 						elementType: 'labels.text.stroke',
-						stylers: [{ color: '#c3c7cc' }]
+						stylers: [{
+							color: '#c3c7cc'
+						}]
 					}
 				],
 				mapTypeControl: true,
