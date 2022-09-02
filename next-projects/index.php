@@ -73,34 +73,102 @@
 			</div>
 			<div w3-include-html="content.php"></div>
 
-			<h2 class='text-center'>Double Exposure</h2>
+			<h2 class='text-center'>Beauty Portraits</h2>
 			<br />
 			<div class="row">
-				<div class='col-sm-6 col-md-3'>
-					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/682999099723499889/"></a>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/beauty-portraits/beauty-portraits-1.jpg" class="img-fluid" />
 				</div>
-				<div class='col-sm-6 col-md-3'>
-					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/44332377571440114/"></a>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/beauty-portraits/beauty-portraits-2.jpg" class="img-fluid" />
 				</div>
-				<div class='col-sm-6 col-md-3'>
-					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/29484572549223634/"></a>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/beauty-portraits/beauty-portraits-3.jpg" class="img-fluid" />
 				</div>
-				<div class='col-sm-6 col-md-3'>
-					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/40673202873193245/"></a>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/beauty-portraits/beauty-portraits-4.jpg" class="img-fluid" />
+				</div>
+			</div>
+			<div class='row'>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/beauty-portraits/beauty-portraits-5.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/beauty-portraits/beauty-portraits-6.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/beauty-portraits/beauty-portraits-7.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/beauty-portraits/beauty-portraits-8.jpg" class="img-fluid" />
+				</div>
+			</div>
+
+
+			<br />
+			<br />
+
+			<h2 class='text-center'>Parisian Lifestyle</h2>
+			<br />
+			<div class='row'>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-5.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-6.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-7.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-8.jpg" class="img-fluid" />
 				</div>
 			</div>
 			<div class="row">
-				<div class='col-sm-6 col-md-3'>
-					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/617556167638656706/"></a>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-1.jpg" class="img-fluid" />
 				</div>
-				<div class='col-sm-6 col-md-3'>
-					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/109986415873378156/"></a>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-2.jpg" class="img-fluid" />
 				</div>
-				<div class='col-sm-6 col-md-3'>
-					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/458170962093854537/"></a>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-3.jpg" class="img-fluid" />
 				</div>
-				<div class='col-sm-6 col-md-3'>
-					<a data-pin-do="embedPin" data-pin-lang="fr" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.fr/pin/59250551336634161/"></a>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-4.jpg" class="img-fluid" />
+				</div>
+			</div>
+
+			<br />
+			<br />
+			<h2 class='text-center'>Indoor Portraits</h2>
+			<br />
+			<div class='row'>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/indoor-portrait/indoor-portrait-5.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/indoor-portrait/indoor-portrait-6.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/indoor-portrait/indoor-portrait-7.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/indoor-portrait/indoor-portrait-8.jpg" class="img-fluid" />
+				</div>
+			</div>
+			<div class="row">
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/indoor-portrait/indoor-portrait-1.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/indoor-portrait/indoor-portrait-2.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/indoor-portrait/indoor-portrait-3.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/indoor-portrait/indoor-portrait-4.jpg" class="img-fluid" />
 				</div>
 			</div>
 
@@ -136,41 +204,6 @@
 					<img src="../assets/img/next-projects/night-portraits/night-portraits-8.jpg" class="img-fluid" />
 				</div>
 			</div>
-
-			<br />
-			<br />
-			<h2 class='text-center'>Lowkey intimate</h2>
-			<p class="mt10">Essentiellement pour les personnes (hommes et femmes) à l'aise avec ce type de projet, souhaitant découvrir ce monde. Il n'est pas obligé de faire de la nudité complète, nous pouvons travailler pour trouver un bon compromis afin d'être à l'aise tous ensemble</p>
-			<br />
-			<div class="row">
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-1.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-2.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-3.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-4.jpg" class="img-fluid" />
-				</div>
-			</div>
-			<div class='row'>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-5.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-6.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-7.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-8.jpg" class="img-fluid" />
-				</div>
-			</div>
-
 
 		</div><!--  /.conatiner -->
 	</section>
