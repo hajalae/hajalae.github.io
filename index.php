@@ -102,296 +102,27 @@
 	<!-- End of page head section
 		============================================= -->
 
-	<section class="container text-center">
-		<h1 class="text-center mt30 mb10">My last shootings</h1>
-		<h5 class="text-center mb30">Click on a picture to reveal the portfolio</h5>
-		<div class="row">
-			<div class="col-6">
-				<div id="lastShoots" class="carousel slide mb30" data-ride="carousel">
-					<!-- Indicators -->
-					<ol class="carousel-indicators">
-						<li data-target="#lastShoots" data-slide-to="0" class="active"></li>
-						<li data-target="#lastShoots" data-slide-to="1"></li>
-						<li data-target="#lastShoots" data-slide-to="2"></li>
-						<li data-target="#lastShoots" data-slide-to="3"></li>
-						<li data-target="#lastShoots" data-slide-to="4"></li>
-						<li data-target="#lastShoots" data-slide-to="5"></li>
-						<li data-target="#lastShoots" data-slide-to="6"></li>
-						<li data-target="#lastShoots" data-slide-to="7"></li>
-						<li data-target="#lastShoots" data-slide-to="8"></li>
-						<li data-target="#lastShoots" data-slide-to="9"></li>
-					</ol>
-
-					<!-- Wrapper for slides -->
-					<div class="carousel-inner" style="background-color:#BBBBBB">
-
-						<div class="item active">
-							<div class="container text-center">
-								<a href="/portraits-and-fashion/low-key-portraits">
-									<div class=" hidden-sm hidden-xs">
-										<img src="assets/img/book/low-key-portraits/og-image.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="hidden-lg hidden-md visible-sm visible-xs">
-										<img src="assets/img/book/low-key-portraits/low-key-portraits-5.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="carousel-caption mb10">
-										<h3 style="color:white">Low Key Portraits</h3>
-										<p>Portraits sombres laissant transparaitre la lumière</p>
-									</div>
-								</a>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="container text-center">
-								<a href="/portraits-and-fashion/lighting-portraits">
-									<div class=" hidden-sm hidden-xs">
-										<img src="assets/img/book/lighting-portraits/og-image.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="hidden-lg hidden-md visible-sm visible-xs">
-										<img src="assets/img/book/lighting-portraits/lighting-portraits-14.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="carousel-caption mb10">
-										<h3 style="color:white">Lighting Portraits</h3>
-										<p>Portraits aux lumières colorées</p>
-									</div>
-								</a>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="container text-center">
-								<a href="/portraits-and-fashion/colors-portraits">
-									<div class=" hidden-sm hidden-xs">
-										<img src="assets/img/book/colors-portraits/og-image.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="hidden-lg hidden-md visible-sm visible-xs">
-										<img src="assets/img/book/colors-portraits/colors-portraits-12.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="carousel-caption mb10">
-										<h3 style="color:white">Colors Portraits</h3>
-										<p>Portraits aux fonds colorés</p>
-									</div>
-								</a>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="container text-center">
-								<a href="/portraits-and-fashion/chic-balade">
-									<div class=" hidden-sm hidden-xs">
-										<img src="assets/img/book/chic-ballade/shooting-salome.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="hidden-lg hidden-md visible-sm visible-xs">
-										<img src="assets/img/book/chic-ballade/shooting-salome-15.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="carousel-caption mb10">
-										<h3 style="color:white">Chic Balade</h3>
-										<p>Une Après Midi Dans Les Ruelles De Paris</p>
-									</div>
-								</a>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="container text-center">
-								<a href="/portraits-and-fashion/tokyo-love">
-									<div class=" hidden-sm hidden-xs">
-										<img src="assets/img/book/tokyo-love/shooting-ivy-15.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="hidden-lg hidden-md visible-sm visible-xs">
-										<img src="assets/img/book/tokyo-love/shooting-ivy-3.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-
-									<div class="carousel-caption mb10">
-										<h3 style="color:white">Tokyo Love</h3>
-										<p>Street Portraits In Tokyo</p>
-									</div>
-								</a>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="container text-center">
-								<a href="/portraits-and-fashion/bodypainting-love">
-									<div class=" hidden-sm hidden-xs">
-										<img src="assets/img/book/bodypainting-love/shooting-sofie-10.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="hidden-lg hidden-md visible-sm visible-xs">
-										<img src="assets/img/book/bodypainting-love/shooting-sofie-6.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-
-									<div class="carousel-caption mb10">
-										<h3 style="color:white">Bodypainting Love</h3>
-										<p>Bodypainting Session</p>
-									</div>
-								</a>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="container text-center">
-								<a href="/portraits-and-fashion/walk-with-jasmine">
-									<div class=" hidden-sm hidden-xs">
-										<img src="assets/img/book/jasmine/Jasmine-18.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="hidden-lg hidden-md visible-sm visible-xs">
-										<img src="assets/img/book/jasmine/Jasmine-5.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="carousel-caption mb10">
-										<h3 style="color:white">Walk with Jasmine</h3>
-										<p>Une Promenade D'automne Au Japon</p>
-									</div>
-								</a>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="container text-center">
-								<a href="/portraits-and-fashion/saya-la-joie">
-									<div class=" hidden-sm hidden-xs">
-										<img src="assets/img/book/saya/Saya-101.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="hidden-lg hidden-md visible-sm visible-xs">
-										<img src="assets/img/book/saya/Saya-10.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-
-									<div class="carousel-caption mb10">
-										<h3 style="color:white">Saya la Joie</h3>
-										<p>La Joie Des Parcs Nippons</p>
-									</div>
-								</a>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="container text-center">
-								<a href="/portraits-and-fashion/colors-and-tattoos">
-									<div class=" hidden-sm hidden-xs">
-										<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-66.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="hidden-lg hidden-md visible-sm visible-xs">
-										<img src="assets/img/book/shooting-tattoo/Shooting-Tattoo-24.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="carousel-caption mb10">
-										<h3 style="color:white">Colors & Tattoos</h3>
-										<p>Shooting D'une Artiste Tatoueuse Japonaise</p>
-									</div>
-								</a>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="container text-center">
-								<a href="/portraits-and-fashion/yellow-leaves">
-									<div class=" hidden-sm hidden-xs">
-										<img src="assets/img/book/yellow-leaves/Yellow-Leaves-4.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="hidden-lg hidden-md visible-sm visible-xs">
-										<img src="assets/img/book/yellow-leaves/Yellow-Leaves-9.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-
-									<div class="carousel-caption mb10">
-										<h3 style="color:white">Yellow Leaves</h3>
-										<p>Une Belle Journée D'automne Japonaise</p>
-									</div>
-								</a>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="container text-center">
-								<a href="/portraits-and-fashion/candle-night">
-									<div class=" hidden-sm hidden-xs">
-										<img src="assets/img/book/candle-night/Candle-Night-9.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="hidden-lg hidden-md visible-sm visible-xs">
-										<img src="assets/img/book/candle-night/Candle-Night-5.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-
-									<div class="carousel-caption mb10">
-										<h3 style="color:white">Candle Night</h3>
-										<p>Une Nuit Tokyoïte Éclairée Par La Lueur Des Bougies</p>
-									</div>
-								</a>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="container text-center">
-								<a href="/portraits-and-fashion/la-villette">
-									<div class=" hidden-sm hidden-xs">
-										<img src="assets/img/book/shooting-daria/Shooting-Daria-5.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="hidden-lg hidden-md visible-sm visible-xs">
-										<img src="assets/img/book/shooting-daria/Shooting-Daria-6.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-
-									<div class="carousel-caption mb10">
-										<h3 style="color:white">La Villette</h3>
-										<p>A Summer Afternoon In Paris</p>
-									</div>
-								</a>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="container text-center">
-								<a href="/portraits-and-fashion/the-people-opium">
-									<div class=" hidden-sm hidden-xs">
-										<img src="assets/img/book/the-people-opium/The-People-Opium-9.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-									<div class="hidden-lg hidden-md visible-sm visible-xs">
-										<img src="assets/img/book/the-people-opium/The-People-Opium-12.jpg" alt="image" class='img-fluid' style="max-height:85vh" />
-									</div>
-
-									<div class="carousel-caption mb10">
-										<h3 style="color:white">The People Opium</h3>
-										<p>Fashion Brand Shooting</p>
-									</div>
-								</a>
-							</div>
-						</div>
-
-
-					</div>
-
-					<!-- Left and right controls -->
-					<a class="left carousel-control" href="#lastShoots" data-slide="prev">
-						<span class="glyphicon glyphicon-chevron-left"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-					<a class="right carousel-control" href="#lastShoots" data-slide="next">
-						<span class="glyphicon glyphicon-chevron-right"></span>
-						<span class="sr-only">Next</span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</section>
-
-
 
 	<section id="portfolio" class="portfolio-section">
 		<h1 class="text-center mb10">Photography</h1>
 		<h5 class="text-center mb30">Click on a picture to reveal the portfolio</h5>
 		<div class="container mb30">
 			<div class="col-xs-6 col-md-3">
-				<a href="/portraits-and-fashion">
+				<a href="/portraits-and-fashion/portfolio/">
 					<div class="work-item mb10">
 						<div class="work-pic">
 							<img src="assets/img/cadres/fashion-cadre.jpg" alt="image">
 						</div>
 						<!-- //img -->
 						<div class="project-description text-uppercase ul-li">
-							<h3>Portrait / Fashion</h3>
+							<h3>Portraits of the world</h3>
 							<ul class="project-catagorry text-capitalize">
 								<li>Portfolio</li>
 							</ul>
 						</div>
 					</div>
 					<div class="page-head-title text-capitalize text-center pb40">
-						<h4 class="descrip">Portrait / Fashion</h4>
+						<h4 class="descrip">Portraits of the world</h4>
 					</div>
 				</a>
 			</div>
@@ -403,14 +134,14 @@
 						</div>
 						<!-- //img -->
 						<div class="project-description text-uppercase ul-li">
-							<h3>Street Photography</h3>
+							<h3>Streets of the world</h3>
 							<ul class="project-catagorry text-capitalize">
 								<li>Portfolio</li>
 							</ul>
 						</div>
 					</div>
 					<div class="page-head-title text-capitalize text-center pb40">
-						<h4 class="descrip">Street Photography</h4>
+						<h4 class="descrip">Streets of the world</h4>
 					</div>
 				</a>
 			</div>
@@ -422,14 +153,14 @@
 						</div>
 						<!-- //img -->
 						<div class="project-description text-uppercase ul-li">
-							<h3>Sports</h3>
+							<h3>Sports of the world</h3>
 							<ul class="project-catagorry text-capitalize">
 								<li>Portfolio</li>
 							</ul>
 						</div>
 					</div>
 					<div class="page-head-title text-capitalize text-center pb40">
-						<h4 class="descrip">Sport</h4>
+						<h4 class="descrip">Sports of the world</h4>
 					</div>
 				</a>
 			</div>
@@ -448,7 +179,7 @@
 						</div>
 					</div>
 					<div class="page-head-title text-capitalize text-center pb40">
-						<h4 class="descrip">Festivals</h4>
+						<h4 class="descrip">Festivals of the world</h4>
 					</div>
 				</a>
 			</div>

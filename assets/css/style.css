@@ -395,6 +395,10 @@ Start of portfolio section [*4]
 .item-wrap {
 	margin: 15px;
 }
+
+.item-wrap-small {
+	margin: 2%;
+}
 .portfolio-section {
 	padding-top: 50px;
 }
@@ -408,6 +412,12 @@ Start of portfolio section [*4]
 	width: 33.33%;
 	float: left;
 }
+
+.item-grid-small {
+	width: 20%;
+	float: left;
+}
+
 .item-grid-1 {
 	width: 50%;
 	float: left;
