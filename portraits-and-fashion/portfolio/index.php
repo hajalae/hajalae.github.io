@@ -6,12 +6,12 @@
 	<title>Portraits Portfolio - Mister Alae</title>
 
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Saya la Joie - Mister Alae" />
-	<meta property="og:url" content="http://www.mister-alae.com/portraits-and-fashion/saya-la-joie.php" />
-	<meta property="og:image" content="http://www.mister-alae.com/assets/img/book/portfolio/101.jpg" />
-	<meta property="og:description" content="La joie des parcs Nippons" />
+	<meta property="og:title" content="Portraits of the world - Mister Alae" />
+	<meta property="og:url" content="https://www.mister-alae.com/portraits-and-fashion/portfolio/" />
+	<meta property="og:image" content="https://www.mister-alae.com/assets/img/book/portfolio/couv.jpg" />
+	<meta property="og:description" content="Portraits and fashion portfolio" />
 
-	<meta name="keywords" content="Automne, Fashion, Photography, Parc Japonais Tokyo, Japan, French Photographer, Portrait">
+	<meta name="keywords" content="Portfolio, Portrait, Fashion, Photography, French Photographer, Portrait">
 
 	<meta name="author" content="Alaeddine Hajjem">
 

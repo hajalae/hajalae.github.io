@@ -68,8 +68,8 @@
 		</div>
 		<div class="container text-center">
 			<div class="page-head-title text-center pb40">
-				<h1>Mes Prochains Projets</h1>
-				<p>Voici les différentes séries en cours de création que je souhaite réaliser avec des modèles volontaires (hommes et femmes). Nous pourrons après discussion déterminer le type de projet que nous réaliserons ensemble, sachant qu'il est possible de tous les faire en un seul et même shooting.</p>
+				<h1>My Upcoming Projects</h1>
+				<p>Here are the different series in progress that I wish to realize with voluntary models (men and women). After discussion, we will be able to determine the type of project that we will carry out together, knowing that it is possible to do multiple of them during the same shooting.</p>
 			</div>
 			<div w3-include-html="content.php"></div>
 
@@ -104,40 +104,6 @@
 				</div>
 			</div>
 
-
-			<br />
-			<br />
-
-			<h2 class='text-center'>Parisian Lifestyle</h2>
-			<br />
-			<div class='row'>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-5.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-6.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-7.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-8.jpg" class="img-fluid" />
-				</div>
-			</div>
-			<div class="row">
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-1.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-2.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-3.jpg" class="img-fluid" />
-				</div>
-				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
-					<img src="../assets/img/next-projects/parisian-lifestyle/parisian-lifestyle-4.jpg" class="img-fluid" />
-				</div>
-			</div>
 
 			<br />
 			<br />
@@ -202,6 +168,72 @@
 				</div>
 				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
 					<img src="../assets/img/next-projects/night-portraits/night-portraits-8.jpg" class="img-fluid" />
+				</div>
+			</div>
+
+			<br />
+			<br />
+			<h2 class='text-center'>Projection Portraits</h2>
+			<br />
+			<div class='row'>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/projection-portrait/projection-portrait-5.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/projection-portrait/projection-portrait-6.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/projection-portrait/projection-portrait-7.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/projection-portrait/projection-portrait-8.jpg" class="img-fluid" />
+				</div>
+			</div>
+			<div class="row">
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/projection-portrait/projection-portrait-1.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/projection-portrait/projection-portrait-2.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/projection-portrait/projection-portrait-3.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/projection-portrait/projection-portrait-4.jpg" class="img-fluid" />
+				</div>
+			</div>
+
+			<br />
+			<br />
+			<h2 class='text-center'>Lowkey Intimate</h2>
+			<br />
+			<div class='row'>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-5.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-6.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-7.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-8.jpg" class="img-fluid" />
+				</div>
+			</div>
+			<div class="row">
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-1.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-2.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-3.jpg" class="img-fluid" />
+				</div>
+				<div class='col-sm-6 col-md-3' style='margin-bottom:30px'>
+					<img src="../assets/img/next-projects/lowkey-intimate/lowkey-intimate-4.jpg" class="img-fluid" />
 				</div>
 			</div>
 
